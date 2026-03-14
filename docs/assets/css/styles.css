@@ -1,0 +1,18 @@
+@font-face {
+	font-family: Renogare;
+	src: url("/assets/fonts/Renogare.otf");
+}
+
+@font-face {
+	font-family: Minecraft;
+	src: url("/assets/fonts/Mojangles.woff2");
+}
+
+:root {
+  --md-text-font: "Renogare"; 
+  --md-code-font: "Minecraft";
+}
+
+img {
+	border: 2px solid #FFFFFF;
+}

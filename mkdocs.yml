@@ -1,0 +1,127 @@
+site_name: deva's hideout
+site_url: https://deva.wiki
+repo_name: hideout
+repo_url: https://github.com/tokaualol/hideout
+edit_uri: edit/main/docs/
+
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+  
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      accent: indigo
+      primary: light blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      accent: indigo
+      primary: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to system preference
+  icon:
+    edit: material/pencil 
+    view: material/eye
+
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    # - navigation.sections
+    - navigation.path
+    # - toc.integrate
+    - search.suggest
+    - search.share
+    - header.autohide
+    - navigation.footer
+    - content.action.view
+
+extra:
+  generator: false
+#   homepage: /
+#   alternate:
+#     - name: English
+#       link: /
+#       lang: en
+#     - name: Spanish
+#       link: /es/
+#       lang: es
+
+extra_css:
+  - assets/css/styles.css
+
+plugins:
+  - git-revision-date-localized:
+      enabled: !ENV [CI, false]
+      type: date
+      fallback_to_build_date: true
+  - git-committers:
+      enabled: !ENV [CI, false]
+      repository: tokaualol/hideout
+      branch: main
+  # - optimize
+
+nav:
+  - Index: index.md
+
+  - 🔒 Security:
+    - VPNs: security/vpns.md
+    - Ad Blocking: security/adblock.md
+    - Encryption: security/encrypt.md
+
+  - 📵 Privacy:
+    - Social Media Alternaives: privacy/alternatives.md
+
+  - 💾 Software:
+    - Tools: software/tools.md
+    - Scripts: software/scripts.md
+    - Extensions: software/extensions.md
+    - Self Host: software/selfhost.md
+
+  - 🍿 Media:
+    - Websites: media/websites.md
+    - Movies & TV: media/moviestv.md
+    - Anime & Manga: media/animemanga.md
+    - Art: media/art.md
+    - Wallpapers: media/wallpapers.md
+    - Creators: media/creators.md
+
+  - 📚 Guides:
+    - Self Host: guides/selfhost.md
+    - Other: guides/other.md
+
+  - 🕹️ Video Games:
+    - Emulation: vg/emulation.md
+    - Minecraft: vg/minecraft.md
+    - Fortnite: vg/fortnite.md
+    - VALVE: vg/valve.md
+    - Roblox: vg/roblox.md
+
+  - 🏳️‍🌈 LGBTQ+:
+    - DIY: lgbtq/diy.md
+
+  - 🔞 NSFW:
+    - Hentai: nsfw/hentai.md
+    - Doujinshi: nsfw/doujinshi.md
+    - Porn: nsfw/porn.md
+
+  - ⭐ Fun:
+    - Copypastas: fun/copypastas.md
+
+  - Credits: credits.md
+  - Contributing: contributing.md
