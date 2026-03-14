@@ -16,3 +16,21 @@
 img {
 	border: 2px solid #FFFFFF;
 }
+
+.md-typeset h1 {
+	font-family: Minecraft;
+	margin: 0;
+}
+
+.md-header__title {
+	font-family: Minecraft	;
+	font-size: 1.5rem;
+}
+
+.md-annotation__index {
+	margin: 0;
+}
+
+.md-annotation__index:after, .md-annotation__index:before {
+	height: 1.8ch;
+}

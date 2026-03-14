@@ -1,10 +1,14 @@
 # Ad Blocking
 An adblock is a piece of software that blocks adveristments and intrusive elements
-
+<hr>
+    
 [uBlock Origin](https://ublockorigin.com)<br>
 More than just an Ad blocker, blocks trackers, coin miners, popups, annoying anti-blockers, malware sites, etc.
 
-Filters
+Filters  (1)
+{ .annotate }
+
+1.  Work In Progress
 
 [SponsorBlock](https://sponsor.ajay.app)<br>
 Allows you to skip annoying self-promos, non-music segments on music videos, intros, and much more on YouTube.

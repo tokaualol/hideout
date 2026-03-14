@@ -4,19 +4,11 @@ repo_name: hideout
 repo_url: https://github.com/tokaualol/hideout
 edit_uri: edit/main/docs/
 
-
 theme:
   name: material
   logo: assets/logo.png
   favicon: assets/favicon.png
   palette:
-
-    # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Switch to light mode
-  
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
@@ -44,16 +36,17 @@ theme:
     - navigation.instant.progress
     # - navigation.sections
     - navigation.path
-    # - toc.integrate
+    - toc.integrate
     - search.suggest
     - search.share
     - header.autohide
     - navigation.footer
     - content.action.view
+    - content.code.copy
 
 extra:
   generator: false
-#   homepage: /
+#   homepage: / 
 #   alternate:
 #     - name: English
 #       link: /
@@ -75,6 +68,16 @@ plugins:
       repository: tokaualol/hideout
       branch: main
   # - optimize
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - toc:
+      permalink: "#"
 
 nav:
   - Index: index.md

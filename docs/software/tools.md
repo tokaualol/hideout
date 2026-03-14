@@ -1,5 +1,6 @@
 a collection of useful tools for various tasks.
-
+<hr>
+    
 [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install)<br>
 Collection of utilities that help you customize Windows
 
