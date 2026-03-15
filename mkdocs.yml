@@ -60,6 +60,7 @@ extra_css:
 
 plugins:
   - search
+  - glightbox
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       type: date
@@ -77,6 +78,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
   - toc:
       permalink: "#"
 

@@ -22,8 +22,17 @@
 }
 
 img {
-	border: 2px solid #FFFFFF;
+	border: 2px solid var(--md-default-fg-color);
 	border-radius: .2rem;
+}
+
+.md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card {
+	border: none;
+	padding: 0;
+}
+
+.md-typeset .grid.cards>ol>li:focus-within, .md-typeset .grid.cards>ol>li:hover, .md-typeset .grid.cards>ul>li:focus-within, .md-typeset .grid.cards>ul>li:hover, .md-typeset .grid>.card:focus-within, .md-typeset .grid>.card:hover {
+	box-shadow: none;
 }
 
 .md-typeset h1 {
@@ -46,4 +55,8 @@ img {
 
 .md-annotation__index:after, .md-annotation__index:before {
 	height: 1.8ch;
+}
+
+.md-footer-meta {
+	display: none;
 }

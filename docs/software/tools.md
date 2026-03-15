@@ -8,6 +8,15 @@ Collection of utilities that help you customize Windows.
 [Windhawk](https://windhawk.net)<br>
 Customize Windows programs with scripts by the community.
 
+[Pinta](https://pinta-project.com)<br>
+Pinta is a GTK clone of Paint.Net 3.0, with support for Linux, Windows, and macOS.
+
+[Krita](https://krita.org)<br>
+Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
+
+[QBitTorrent](https://qbittorrent.org)<br>
+Open-source software alternative to µTorrent.
+
 [Bulk Crap Uninstaller](https://bcuninstaller.com)<br>
 Remove large amounts of unwanted applications quickly and clean up leftovers.
 
@@ -22,6 +31,12 @@ Shows you information about which handles and DLLs processes have opened or load
 
 [HandBrake](https://handbrake.fr)<br>
 Open-source video transcoder.
+
+[Ruffle](https://ruffle.rs)<br>
+An open source Flash Player emulator.
+
+[VxKex](https://github.com/i486/VxKex)<br>
+Run Windows 8, 8.1 and 10-exclusive apps on Windows 7
 
 [Wine](https://winehq.org)<br>
 Run Windows applications on UNIX based systems.

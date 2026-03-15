@@ -7,7 +7,7 @@ Install [Python](https://python.org/downloads)
 ```
 python3 -m venv .venv
 source .venv/bin/activate
-pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2
+pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-git-committers-plugin-2 mkdocs-glightbox
 mkdocs serve --livereload
 ```
 

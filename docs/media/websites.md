@@ -76,3 +76,10 @@ Supported Sites (1)
 ## Media Converter(s)
 [VERT](https://vert.sh)<br>
 [Ezgif](https://ezgif.com/converters)<br>
+
+## Resource Hub(s)
+if you can't find what your looking for in the hideout, these are the places i reccomend looking in.
+
+[FreeMediaHeckYeah](https://fmhy.net)<br>
+[CTT (Couleur Tweak Tips)](https://ctt.cx)<br>
+[awesome](https://github.com/sindresorhus/awesome)<br>
