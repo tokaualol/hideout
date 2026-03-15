@@ -1,4 +1,4 @@
-# Ad Blocking
+## Ad Blocking
 An adblock is a piece of software that blocks adveristments and intrusive elements
 <hr>
     
@@ -8,15 +8,25 @@ More than just an Ad blocker, blocks trackers, coin miners, popups, annoying ant
 Filters  (1)
 { .annotate }
 
-1.  Work In Progress
+1.  [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)<br>
+    A huge blocklist of manually curated sites (1000+) that contain AI generated content, for the purposes of cleaning image search engines.
 
-[SponsorBlock](https://sponsor.ajay.app)<br>
-Allows you to skip annoying self-promos, non-music segments on music videos, intros, and much more on YouTube.
+    [IP-Logger Filter](https://github.com/piperun/iploggerfilter)<br>
+    Filter any site/subsite who's only purpose is to log your IP.
+
+    [Multi-Purpose Blocklist](https://oisd.nl)<br>
+    Prevents your devices from connecting to unwanted or harmful domains.
+
+    [Filterlists](https://github.com/yokoffing/filterlists)<br>
+    Collection of blocklists
 
 [uBlacklist](https://ublacklist.github.io)<br>
 Blocks specific sites from appearing in Google search results.
 
-# DNS
+[SponsorBlock](https://sponsor.ajay.app)<br>
+Allows you to skip annoying self-promos, non-music segments on music videos, intros, and much more on YouTube.
+
+## DNS
 
 [AdGuard](https://adguard.com)<br>
 Blocks ads, controls access to dangerous sites, speeds up page loading, and protects children from inappropriate content.

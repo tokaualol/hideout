@@ -13,11 +13,24 @@
   --md-code-font: "Minecraft";
 }
 
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+	border: none;
+}
+
+.md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {
+	border: none;
+}
+
 img {
 	border: 2px solid #FFFFFF;
+	border-radius: .2rem;
 }
 
 .md-typeset h1 {
+	display: none;
+}
+
+.md-typeset h2 {
 	font-family: Minecraft;
 	margin: 0;
 }

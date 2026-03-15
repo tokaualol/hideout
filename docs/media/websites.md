@@ -1,3 +1,4 @@
+## Websites
 [Bypass.link](https://bypass.link/)<br>
 Bypasser for Linkvertise, LootLabs, Rekonise, Mboost, Work.ink and more.
 
@@ -11,7 +12,7 @@ List of common website metadata.
 Create a dynamic date-time display in your Discord messages which displays times in each user's local timezone.
 
 [Rebane's Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator)<br>
-Create colored Discord messages using the ANSI color codes
+Create colored Discord messages using the ANSI color codes.
 
 [Placehold](https://placehold.co)<br>
 Super simple and easy to use image placeholder generator.
@@ -44,19 +45,25 @@ A comprehensive and crowd-sourced list of games using anti-cheats and their comp
 [Font Awesome](https://fontawesome.com/search)<br>
 Massive icon library.
 
-# File Storage(s)
+[Bootstrap Icons](https://icons.getbootstrap.com)<br>
+Free, high quality, open source icon library with over 2,000 icons.
+
+[FilterLists](https://filterlists.com)<br>
+Directory of filter and host lists for advertisements, trackers, malware, and annoyances.
+
+## File Storage(s)
 [CatBox](https://catbox.moe)<br>
 [LitterBox](https://litterbox.catbox.moe) (Temoporary)<br>
 [Mega](https://mega.nz)<br>
 [GoFile](https://gofile.io)<br>
 [Mediafire](https://mediafire.com)<br>
 
-# Static Hosting Sites
+## Static Hosting Sites
 
 [nekoweb](https://nekoweb.org)<br>
 [Neocities](https://neocities.org)<br>
 
-# Media Downloader(s)
+## Media Downloader(s)
 
 [cobalt.tools](https://cobalt.tools)<br>
 Download video, audio, photos or gifs from your favorite websites!
@@ -66,6 +73,6 @@ Supported Sites (1)
 
 1. BiliBili, BlueSky, DailyMotion, Facebook, Instagram, Loom, OK, Pinterest, Newgrounds, Reddit, RuTube, Snapchat, SoundCloud, Streamable, TikTok, Tumblr, Twitch Clips, Twitter, Vimeo, VK, Xiaohongshu
 
-# Media Converter(s)
+## Media Converter(s)
 [VERT](https://vert.sh)<br>
 [Ezgif](https://ezgif.com/converters)<br>

@@ -12,8 +12,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
-      accent: indigo
       primary: light blue
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
@@ -21,8 +21,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      accent: indigo
       primary: light blue
+      accent: indigo
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
@@ -31,12 +31,12 @@ theme:
     view: material/eye
 
   features:
-    - navigation.instant
-    - navigation.instant.prefetch
+    - navigation.instant # Internal links will be intercepted and dispatched via XHR without fully reloading the page.
+    - navigation.instant.prefetch # Will start to fetch a page once the user hovers over a link.
     - navigation.instant.progress
-    # - navigation.sections
+    - navigation.tracking
+    - navigation.sections
     - navigation.path
-    - toc.integrate
     - search.suggest
     - search.share
     - header.autohide
@@ -59,15 +59,16 @@ extra_css:
   - assets/css/styles.css
 
 plugins:
+  - search
   - git-revision-date-localized:
       enabled: !ENV [CI, false]
       type: date
       fallback_to_build_date: true
+      
   - git-committers:
       enabled: !ENV [CI, false]
       repository: tokaualol/hideout
       branch: main
-  # - optimize
 
 markdown_extensions:
   - admonition
@@ -103,6 +104,7 @@ nav:
     - Art: media/art.md
     - Wallpapers: media/wallpapers.md
     - Creators: media/creators.md
+    - Videos: media/videos.md
 
   - 📚 Guides:
     - Self Host: guides/selfhost.md

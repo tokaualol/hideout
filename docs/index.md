@@ -1,5 +1,5 @@
 welcome to
-# deva's hideout
+## deva's hideout
 
 ![deva](assets/images/deva.png)
 
@@ -13,3 +13,5 @@ welcome to
 This site is frequently being updated, but if a resource no longer exists, or is malicous / adware, please let tokaua know ASAP!
 
 want to become a contributor? visit [contributing](contributing.md).
+    
+this site is not affiliated with GeoExe
