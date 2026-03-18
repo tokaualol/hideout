@@ -26,13 +26,16 @@ Allows you to spoof your web-browser.
 Allows you to change the volume of tabs on browsers.
 
 [SponsorBlock](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)<br>
-Allows you to skip annoying self-promos, non-music segments on music videos, intros, and much more... for YouTube videos
+Allows you to skip annoying self-promos, non-music segments on music videos, intros, and much more... for YouTube videos.
 
 [DeArrow](https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj)<br>
 Removes clickbait looking like titles and thumbnails from YouTube videos.
 
 [Shazam](https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb)<br>
 Attempt to find music playing in media / a specific tab.
+
+[Control Panel for Twitter](https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj)<br>
+Gives you more control over Twitter and adds missing features and UI improvements.
 
 [uBlacklist](https://chromewebstore.google.com/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe)<br>
 Blocks sites you specify from appearing in Google search results.

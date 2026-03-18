@@ -1,13 +1,11 @@
 ## Ad Blocking
-An adblock is a piece of software that blocks adveristments and intrusive elements
+An adblock is a piece of software that blocks adveristments and intrusive elements.
 <hr>
     
-[uBlock Origin](https://ublockorigin.com)<br>
+[uBlock Origin](https://ublockorigin.com) (1)<br>
 More than just an Ad blocker, blocks trackers, coin miners, popups, annoying anti-blockers, malware sites, etc.
-
-Filters  (1)
 { .annotate }
-
+    
 1.  [uBlockOrigin & uBlacklist Huge AI Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist)<br>
     A huge blocklist of manually curated sites (1000+) that contain AI generated content, for the purposes of cleaning image search engines.
 
@@ -32,10 +30,10 @@ Allows you to skip annoying self-promos, non-music segments on music videos, int
 Blocks ads, controls access to dangerous sites, speeds up page loading, and protects children from inappropriate content.
 
 [NextDNS](https://nextdns.io)<br>
-Blocks ads and trackers on websites and in apps and provides a safe and supervised Internet for kids
+Blocks ads and trackers on websites and in apps and provides a safe and supervised Internet for kids.
 
 [Mullvad DNS](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)<br>
-(You can use this privacy-enhancing service even if you are not a Mullvad customer.)
+You can use this service even if you are not a Mullvad customer.
 
 [Cloudflare](https://developers.cloudflare.com/1.1.1.1/setup)<br>
 Fast and private way to browse the Internet.

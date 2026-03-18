@@ -2,28 +2,22 @@
 A VPN (virtual private network), creates a tunnel between your device and a server over the internet in order to hide your IP address and gain unrestricted access to global content, block annoying ads, and encrypt your traffic.
 <hr>
 
-[Mullvad VPN](https://mullvad.net)<br>
-Cryptocurrencies are discounted at 10% due to lower fees, can use an account on up to 5 devices, does not support port forwarding.
-
-Payment  (1)
+[Mullvad VPN](https://mullvad.net) (1)<br>
+Cryptocurrencies are discounted at 10% due to lower fees, can use an account on up to 5 devices, does not support port forwarding.  
 { .annotate }
 
 1.  Pricing: 1 month ~ $5.89<br><br>Payment Methods:
 <br>Bitcoin, Bitcoin Cash, Monero, Bank Wire, Credit Card, PayPal, Swish, Eps Transfer, Bancontact, iDEAL, Wero, Przelewy24
 
-[Proton VPN](https://protonvpn.com)<br>
+[Proton VPN](https://protonvpn.com) (1)<br>
 FREE tier
-
-Payment  (1)
 { .annotate }
 
 1.  Pricing: 1 month ~ $9.99<br><br>Payment Methods:
 <br>Credit Card, PayPal, Google Pay
 
-[Mysterium Dark](https://dysteriumdark.com)<br>
+[Mysterium Dark](https://dysteriumdark.com) (1)<br>
 Pay-As-You-Go, Residental servers.
-
-Payment  (1)
 { .annotate }
 
 1.  Pricing: ~ $3.99 = 200 GiB, $5.49 = 300 GiB, $9.49 = 567 GiB<br><br>Payment Methods:

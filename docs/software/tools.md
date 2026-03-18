@@ -1,9 +1,12 @@
 ## Tools
 a collection of useful tools for various tasks.
 <hr>
-    
+
 [Microsoft PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install)<br>
 Collection of utilities that help you customize Windows.
+
+[Everything](https://voidtools.com)<br>
+Locate files and folders by name instantly.
 
 [Windhawk](https://windhawk.net)<br>
 Customize Windows programs with scripts by the community.
@@ -31,6 +34,9 @@ Shows you information about which handles and DLLs processes have opened or load
 
 [HandBrake](https://handbrake.fr)<br>
 Open-source video transcoder.
+
+[yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
+A feature-rich command-line audio/video downloader for many sites.
 
 [Ruffle](https://ruffle.rs)<br>
 An open source Flash Player emulator.

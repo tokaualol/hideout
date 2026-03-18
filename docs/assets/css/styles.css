@@ -60,3 +60,16 @@ img {
 .md-footer-meta {
 	display: none;
 }
+
+.md-nav__item--section>.md-nav__link[for] {
+	font-family: Minecraft;
+	font-size: 1rem;
+	display: flex;
+	align-items: center;
+
+}
+
+.md-nav--primary .md-nav__title {
+	font-family: Minecraft;
+	font-size: 1rem;
+}

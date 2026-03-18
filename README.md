@@ -1,5 +1,5 @@
 # [deva's hideout](https://deva.wiki)
-a website
+a wiki
 
 # Usage
 Install [Python](https://python.org/downloads)
@@ -14,4 +14,4 @@ mkdocs serve --livereload
 deva's hideout will now be running at http://127.0.0.1:8000 !
 
 # Contributing
-If you would like to contribute to the wiki, please read the steps provided [here](https://deva.wiki/contributing).
+If you would like to contribute to the wiki, please read the steps provided [here](/docs/contributing.md).

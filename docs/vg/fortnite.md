@@ -24,7 +24,7 @@ Reboot Launcher is a GUI and CLI Launcher made for the Reboot Project, but can b
 LawinServer is a local singleplayer lobby server emulator for Fortnite, supporting Battle Royale and Save the World.
 
 [LawinServerV2](https://github.com/Lawin0129/LawinServerV2)<br>
-LawinServer V2 is a fortnite backend written in Node.js that features an account system and XMPP for certain seasons. Only supports Battle Royale.
+LawinServer V2 is a Fortnite backend written in Node.js that features an account system and XMPP for certain seasons. Only supports Battle Royale.
 
 [Cobalt](https://github.com/Milxnor/Cobalt)<br>
 Cobalt is a Universal SSL Bypass for Fortnite.

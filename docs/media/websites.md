@@ -8,8 +8,8 @@ Check if your email address is in a data breach.
 [Open Graph Protocol](https://ogp.me)<br>
 List of common website metadata.
 
-[Discord Timestamp Generator](https://discordtimestamp.com)<br>
-Create a dynamic date-time display in your Discord messages which displays times in each user's local timezone.
+[BT4G](https://bt4gprx.com)<br>
+Torrent Search Engine
 
 [Rebane's Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator)<br>
 Create colored Discord messages using the ANSI color codes.
@@ -32,12 +32,19 @@ Search for any current or past deals on video games, with price tracking & histo
 [Hobune](https://hobune.stream)<br>
 rebane's archive of now deleted or removed youtube channels / videos.
 
+[TLD List](https://tld-list.com)<br>
+Compare prices of domain tlds across different registrars. 
+
 [waifu2x](https://waifu2x.net)<br>
 Anime-Style art image upscaler.
 
-[Anna's Archive](https://annas-archive.gl)<br>
+[Anna's Archive](https://annas-archive.gl) (1)<br>
 The world’s largest open-source open-data library.
-MIRRORS TODO HERE
+{ .annotate }
+
+1.  Mirrors:<br>
+    [annas-archive.pk](https://annas-archive.pk)<br>
+    [annas-archive.gd](https://annas-archive.gd)
 
 [Does X game support Linux?](https://areweanticheatyet.com)<br>
 A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
@@ -65,13 +72,16 @@ Directory of filter and host lists for advertisements, trackers, malware, and an
 
 ## Media Downloader(s)
 
-[cobalt.tools](https://cobalt.tools)<br>
+[cobalt.tools](https://cobalt.tools) (1)<br>
 Download video, audio, photos or gifs from your favorite websites!
-
-Supported Sites (1)
 { .annotate }
 
-1. BiliBili, BlueSky, DailyMotion, Facebook, Instagram, Loom, OK, Pinterest, Newgrounds, Reddit, RuTube, Snapchat, SoundCloud, Streamable, TikTok, Tumblr, Twitch Clips, Twitter, Vimeo, VK, Xiaohongshu
+1. Supported Sites:<br>
+    BiliBili, BlueSky, DailyMotion, Facebook, Instagram, Loom, OK, Pinterest, Newgrounds, Reddit, RuTube, Snapchat, SoundCloud, Streamable, TikTok, Tumblr, Twitch Clips, Twitter, Vimeo, VK, Xiaohongshu
+
+    Instances:<br>
+    [cobalt.meowing.de](https://cobalt.meowing.de)<br>
+    [cobalt.canine.tools](https://cobalt.canine.tools)
 
 ## Media Converter(s)
 [VERT](https://vert.sh)<br>
@@ -81,5 +91,5 @@ Supported Sites (1)
 if you can't find what your looking for in the hideout, these are the places i reccomend looking in.
 
 [FreeMediaHeckYeah](https://fmhy.net)<br>
-[CTT (Couleur Tweak Tips)](https://ctt.cx)<br>
 [awesome](https://github.com/sindresorhus/awesome)<br>
+[CTT (Couleur Tweak Tips)](https://ctt.cx)<br>
