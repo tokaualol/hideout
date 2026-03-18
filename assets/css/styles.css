@@ -1,0 +1,75 @@
+@font-face {
+	font-family: Renogare;
+	src: url("/assets/fonts/Renogare.otf");
+}
+
+@font-face {
+	font-family: Minecraft;
+	src: url("/assets/fonts/Mojangles.woff2");
+}
+
+:root {
+  --md-text-font: "Renogare"; 
+  --md-code-font: "Minecraft";
+}
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+	border: none;
+}
+
+.md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {
+	border: none;
+}
+
+img {
+	border: 2px solid var(--md-default-fg-color);
+	border-radius: .2rem;
+}
+
+.md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card {
+	border: none;
+	padding: 0;
+}
+
+.md-typeset .grid.cards>ol>li:focus-within, .md-typeset .grid.cards>ol>li:hover, .md-typeset .grid.cards>ul>li:focus-within, .md-typeset .grid.cards>ul>li:hover, .md-typeset .grid>.card:focus-within, .md-typeset .grid>.card:hover {
+	box-shadow: none;
+}
+
+.md-typeset h1 {
+	display: none;
+}
+
+.md-typeset h2 {
+	font-family: Minecraft;
+	margin: 0;
+}
+
+.md-header__title {
+	font-family: Minecraft	;
+	font-size: 1.5rem;
+}
+
+.md-annotation__index {
+	margin: 0;
+}
+
+.md-annotation__index:after, .md-annotation__index:before {
+	height: 1.8ch;
+}
+
+.md-footer-meta {
+	display: none;
+}
+
+.md-nav__item--section>.md-nav__link[for] {
+	font-family: Minecraft;
+	font-size: 1rem;
+	display: flex;
+	align-items: center;
+
+}
+
+.md-nav--primary .md-nav__title {
+	font-family: Minecraft;
+	font-size: 1rem;
+}
