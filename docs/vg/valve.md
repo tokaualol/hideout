@@ -1,7 +1,13 @@
 ## VALVE
 
+[SteamDB](https://steamdb.info)<br>
+Database covering the entire Steam catalog. Player charts, price history across all regions, update histories, and detailed data for every product.
+
+[Steam Status](https://steamstat.us)<br>
+Steam server status.
+
 [SteamID](https://steamid.uk)<br>
-Steam profile lookup with history
+Steam profile lookup with history.
 
 <hr>
 Remove Featured Badge on profile (1)

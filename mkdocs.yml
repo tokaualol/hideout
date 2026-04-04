@@ -1,5 +1,5 @@
-site_name: deva's hideout
-site_url: https://deva.wiki
+site_name: tokaua's hideout
+site_url: https://wiki.tokaua.lol
 repo_name: hideout
 repo_url: https://github.com/tokaualol/hideout
 edit_uri: edit/main/docs/
@@ -12,8 +12,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
-      primary: light blue
-      accent: indigo
+      primary: deep purple
+      accent: purple
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
@@ -21,8 +21,8 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: light blue
-      accent: indigo
+      primary: deep purple
+      accent: purple
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference

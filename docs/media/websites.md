@@ -20,7 +20,7 @@ Super simple and easy to use image placeholder generator.
 [Avatar Cropper](https://avatarcropper.com)<br>
 Simple quick avatar cropper!
 
-[IEM List](https://crinacle.com/rankings/iems)<br>
+[Crinacle's Ultimate IEM List](https://list.hangout.audio)<br>
 List of a ton of IEMs, with reviews and prices and other useful stats.
 
 [The Cutting Room Floor](https://tcrf.net)<br>
@@ -90,6 +90,6 @@ Download video, audio, photos or gifs from your favorite websites!
 ## Resource Hub(s)
 if you can't find what your looking for in the hideout, these are the places i reccomend looking in.
 
-[FreeMediaHeckYeah](https://fmhy.net)<br>
+[FMHY (FreeMediaHeckYeah)](https://fmhy.net)<br>
 [awesome](https://github.com/sindresorhus/awesome)<br>
 [CTT (Couleur Tweak Tips)](https://ctt.cx)<br>
