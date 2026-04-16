@@ -6,10 +6,22 @@ a collection of useful scripts for various tasks.
 Install Programs, Tweaks, Fixes, and Updates.
 
 <hr>
-Clone entire GitHub profile / Organization
+Clone entire GitHub Profile / Organization
 ```py
 gh repo list ORGNAMEHERE --limit 4000 | while read -r repo _; do
   gh repo clone "$repo" "$repo"
+done
+```
+
+Update Existing Repositories
+```py
+gh repo list myorgname --limit 1000 | while read -r repo _; do
+  gh repo clone "$repo" "$repo" -- -q 2>/dev/null || (
+    cd "$repo"
+    git checkout -q main 2>/dev/null || true
+    git checkout -q master 2>/dev/null || true
+    git pull -q
+  )
 done
 ```
 <hr>

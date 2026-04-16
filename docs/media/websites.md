@@ -30,7 +30,7 @@ A wiki which hosts & documents many unused or cut content from different video g
 Search for any current or past deals on video games, with price tracking & history.
 
 [Hobune](https://hobune.stream)<br>
-rebane's archive of now deleted or removed youtube channels / videos.
+Rebane's archive of now deleted or removed youtube channels / videos.
 
 [TLD List](https://tld-list.com)<br>
 Compare prices of domain tlds across different registrars. 
@@ -45,6 +45,9 @@ The world’s largest open-source open-data library.
 1.  Mirrors:<br>
     [annas-archive.pk](https://annas-archive.pk)<br>
     [annas-archive.gd](https://annas-archive.gd)
+
+[Z-Library](https://z-lib.sk)<br>
+The world’s largest e-book library. 
 
 [Does X game support Linux?](https://areweanticheatyet.com)<br>
 A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.

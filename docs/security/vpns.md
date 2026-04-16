@@ -16,6 +16,9 @@ FREE tier
 1.  Pricing: 1 month ~ $9.99<br><br>Payment Methods:
 <br>Credit Card, PayPal, Google Pay
 
+[Riseup VPN](https://riseup.net/vpn)<br>
+FREE
+
 [Mysterium Dark](https://dysteriumdark.com) (1)<br>
 Pay-As-You-Go, Residental servers.
 { .annotate }

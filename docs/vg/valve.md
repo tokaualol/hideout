@@ -9,6 +9,9 @@ Steam server status.
 [SteamID](https://steamid.uk)<br>
 Steam profile lookup with history.
 
+[ChatterBox for Source](https://ralphorama.github.io)<br>
+Generate a list of say binds that rotate.
+
 <hr>
 Remove Featured Badge on profile (1)
 { .annotate }
@@ -35,5 +38,8 @@ function SetFavoriteFeaturedBadge(access_token, badgeid) {
 <hr>
 
 ## Counter-Strike
+
+[NoLobbyReservation](https://github.com/honey-malviya/No-Lobby-Reservation)<br>
+A SourceMod plugin which allows CSGO servers to be joinable again.
 
 ## Deadlock
