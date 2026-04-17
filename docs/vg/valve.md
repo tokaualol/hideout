@@ -1,4 +1,5 @@
 ## VALVE
+<hr>
 
 [SteamDB](https://steamdb.info)<br>
 Database covering the entire Steam catalog. Player charts, price history across all regions, update histories, and detailed data for every product.
@@ -38,6 +39,9 @@ function SetFavoriteFeaturedBadge(access_token, badgeid) {
 <hr>
 
 ## Counter-Strike
+
+[CSFloat Market Checker](https://chromewebstore.google.com/detail/csfloat-market-checker/jjicbefpemnphinccgikpdaagjebbnhg)<br>
+Shows the float value, paint seed, and more of Counter-Strike items on the Steam Market or Inventories.
 
 [NoLobbyReservation](https://github.com/honey-malviya/No-Lobby-Reservation)<br>
 A SourceMod plugin which allows CSGO servers to be joinable again.

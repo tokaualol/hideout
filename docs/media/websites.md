@@ -1,4 +1,6 @@
 ## Websites
+<hr>
+
 [Bypass.link](https://bypass.link/)<br>
 Bypasser for Linkvertise, LootLabs, Rekonise, Mboost, Work.ink and more.
 
@@ -29,14 +31,14 @@ A wiki which hosts & documents many unused or cut content from different video g
 [IsThereAnyDeal](https://isthereanydeal.com)<br>
 Search for any current or past deals on video games, with price tracking & history.
 
-[Hobune](https://hobune.stream)<br>
-Rebane's archive of now deleted or removed youtube channels / videos.
-
 [TLD List](https://tld-list.com)<br>
 Compare prices of domain tlds across different registrars. 
 
 [waifu2x](https://waifu2x.net)<br>
 Anime-Style art image upscaler.
+
+[color-hex](https://color-hex.com)<br>
+Information about colors including color models (RGB,HSL,HSV and CMYK), Triadic colors, monochromatic colors and analogous colors calculated in color page.
 
 [Anna's Archive](https://annas-archive.gl) (1)<br>
 The world’s largest open-source open-data library.
@@ -96,3 +98,13 @@ if you can't find what your looking for in the hideout, these are the places i r
 [FMHY (FreeMediaHeckYeah)](https://fmhy.net)<br>
 [awesome](https://github.com/sindresorhus/awesome)<br>
 [CTT (Couleur Tweak Tips)](https://ctt.cx)<br>
+
+## Image Board(s)
+!!! warning
+
+    NSFW content is present on these boards.
+    
+[Danbooru](https://danbooru.donmai.us)<br>
+A taggable imageboard, with sophisticated features for keeping, organizing and finding pictures.
+
+[4chan](https://4chan.org)<br>

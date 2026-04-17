@@ -1,4 +1,6 @@
 ## Fortnite
+<hr>
+
 [FortniteEndpointsDocumentation](https://github.com/LeleDerGrasshalmi/FortniteEndpointsDocumentation)<br>
 Unofficial API Documentation for official Fortnite & Epic Games services.
 

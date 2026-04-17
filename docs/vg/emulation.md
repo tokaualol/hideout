@@ -1,4 +1,5 @@
 ## Emulation
+<hr>
 
 ## Nintendo
 

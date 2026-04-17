@@ -1,4 +1,4 @@
-## Social Media Alternatives
+## Alternatives
 These are alternatives to many popular social media apps.
 <hr>
 

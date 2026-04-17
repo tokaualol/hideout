@@ -1,5 +1,6 @@
 ## Extensions
 Useful extensions for Chromium & Firefox based browsers.
+<hr>
 
 [BetterTTV](https://betterttv.com)<br>
 Adds extra emotes and makes the overall chat experience for Twitch much better.
@@ -33,6 +34,9 @@ Removes clickbait looking like titles and thumbnails from YouTube videos.
 
 [Shazam](https://chromewebstore.google.com/detail/shazam-find-song-names-fr/mmioliijnhnoblpgimnlajmefafdfilb)<br>
 Attempt to find music playing in media / a specific tab.
+
+[OldTwitter](https://github.com/dimdenGD/OldTwitter)<br>
+Extension to return old Twitter layout from 2015 / 2018.
 
 [Control Panel for Twitter](https://chromewebstore.google.com/detail/control-panel-for-twitter/kpmjjdhbcfebfjgdnpjagcndoelnidfj)<br>
 Gives you more control over Twitter and adds missing features and UI improvements.

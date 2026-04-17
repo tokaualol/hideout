@@ -12,7 +12,7 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default 
-      primary: deep purple
+      primary: custom
       accent: purple
       toggle:
         icon: material/weather-night
@@ -21,7 +21,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple
+      primary: custom
       accent: purple
       toggle:
         icon: material/weather-sunny
@@ -92,7 +92,7 @@ nav:
     - Encryption: security/encrypt.md
 
   - 📵 Privacy:
-    - Social Media Alternaives: privacy/alternatives.md
+    - Alternaives: privacy/alternatives.md
 
   - 💾 Software:
     - Tools: software/tools.md
@@ -124,6 +124,7 @@ nav:
     - DIY: lgbtq/diy.md
 
   - ⭐ Fun:
+    - Websites: fun/websites.md
     - Copypastas: fun/copypastas.md
 
   - Credits: credits.md

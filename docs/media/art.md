@@ -1,8 +1,9 @@
 ## Art
+<hr>
 
 !!! warning
 
-    There may be NSFW content on this page, or the pages linked.
+    There may be NSFW content on this page, or it's subpages.
 
 ## Reference / Character Sheets
 Concept Art ~ Blaze the Cat<br>
@@ -35,7 +36,7 @@ drawing tutorials, guides, and resources.
 /bale/ guides and tutorials
 
 [https://mares.horse/p/drawingtutorials](https://mares.horse/p/drawingtutorials.html)<br>
-Pony Drawing Tutorials & References [NSFW Warning]
+🔞 Pony Drawing Tutorials & References
 
 [https://pony.tube/c/bale_stuff/videos](https://pony.tube/c/bale_stuff/videos)<br>
 

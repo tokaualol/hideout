@@ -1,4 +1,5 @@
 ## Anime & Manga
+<hr>
 
 ## Streaming
 [Miruro](https://miruro.tv)<br>

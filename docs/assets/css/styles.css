@@ -8,7 +8,11 @@
 	src: url("/assets/fonts/Mojangles.woff2");
 }
 
-:root {
+:root  > * {
+  --md-primary-fg-color:        #A673FF;
+  --md-primary-fg-color--light: #50da00;
+  --md-primary-fg-color--dark:  #845CCC;
+  --md-accent-fg-color: #845CCC;
   --md-text-font: "Renogare"; 
   --md-code-font: "Minecraft";
 }
@@ -23,7 +27,6 @@
 
 img {
 	border: 2px solid var(--md-default-fg-color);
-	border-radius: .2rem;
 }
 
 .md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card {

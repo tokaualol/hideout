@@ -38,6 +38,9 @@ Open-source video transcoder.
 [yt-dlp](https://github.com/yt-dlp/yt-dlp)<br>
 A feature-rich command-line audio/video downloader for many sites.
 
+[girlglock input overlay](https://overlay.girlglock.com)<br>
+the best keyboard input overlay for OBS and other broadcast software.
+
 [Ruffle](https://ruffle.rs)<br>
 An open source Flash Player emulator.
 
@@ -46,3 +49,6 @@ Run Windows 8, 8.1 and 10-exclusive apps on Windows 7
 
 [Wine](https://winehq.org)<br>
 Run Windows applications on UNIX based systems.
+
+[LiveSplit](https://livesplit.org/)<br>
+A sleek, highly customizable timer for speedrunners.
