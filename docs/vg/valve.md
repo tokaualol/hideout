@@ -22,7 +22,7 @@ Remove Featured Badge on profile (1)
     3. Paste in Console<br>
     4. Save
 
-![badge](../assets/images/badge.png)
+![badge](../assets/img/badge.png)
 ```js
 var access_token =  $J("[data-loyaltystore]").data("loyaltystore").webapi_token;
 var badgeid = 0;

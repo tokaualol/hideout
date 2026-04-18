@@ -10,3 +10,6 @@ A pure-css idle game where you build your own website.
 
 [Monkeytype](https://monkeytype.com)<br>
 The most customizable typing website with a minimalistic design and a ton of features.
+
+[WebTiles](https://webtiles.kicya.net)<br>
+A collection of user made websites in a tile format.

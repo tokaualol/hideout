@@ -6,7 +6,7 @@ Useful extensions for Chromium & Firefox based browsers.
 Adds extra emotes and makes the overall chat experience for Twitch much better.
 
 [Imagus](https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)<br>
-Enlarge thumbnails, and show images/videos from links with a mouse hover. (Highly Customizable)
+Enlarge images/thumbnails on mouse hover, with highly customizable settings.
 
 [Truffle](https://truffle.vip)<br>
 Makes the Youtube Live chatting experience much better with custom emotes and improved UI.

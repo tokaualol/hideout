@@ -1,5 +1,5 @@
 # [tokaua's hideout](https://wiki.tokaua.lol)
-a wiki
+a wiki that contains a collection of useful websites, tools, and other media.
 
 # Usage
 Install [Python](https://python.org/downloads)

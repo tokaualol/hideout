@@ -1,6 +1,16 @@
 ## Websites
 <hr>
 
+[Internet Archive](https://archive.org) (1)<br>
+A non-profit library of millions of archived texts, movies, software, music, websites, and more.
+{ .annotate }
+
+1.  The [Wayback Machine](https://web.archive.org) allows you to view snapshots of websites
+    from any point in time it's active.
+
+[vx-underground](https://vx-underground.org)<br>
+The largest collection of malware source code, samples, and papers on the internet.
+
 [Bypass.link](https://bypass.link/)<br>
 Bypasser for Linkvertise, LootLabs, Rekonise, Mboost, Work.ink and more.
 
@@ -19,8 +29,17 @@ Create colored Discord messages using the ANSI color codes.
 [Placehold](https://placehold.co)<br>
 Super simple and easy to use image placeholder generator.
 
+[Triage](https://tria.ge)<br>
+A state-of-the–art malware analysis sandbox.
+
+:currency: [Humble Bundle](https://humblebundle.com)<br>
+Selling games, ebooks, software, and other digital content at a great price, while supporting charity.
+
 [Avatar Cropper](https://avatarcropper.com)<br>
 Simple quick avatar cropper!
+
+[Pronouns List](https://pronouns.within.lgbt/pronoun-list)<br>
+A list of many pronouns and how to use them.
 
 [Crinacle's Ultimate IEM List](https://list.hangout.audio)<br>
 List of a ton of IEMs, with reviews and prices and other useful stats.
@@ -58,7 +77,7 @@ A comprehensive and crowd-sourced list of games using anti-cheats and their comp
 Massive icon library.
 
 [Bootstrap Icons](https://icons.getbootstrap.com)<br>
-Free, high quality, open source icon library with over 2,000 icons.
+High quality, open source icon library with over 2,000 icons.
 
 [FilterLists](https://filterlists.com)<br>
 Directory of filter and host lists for advertisements, trackers, malware, and annoyances.

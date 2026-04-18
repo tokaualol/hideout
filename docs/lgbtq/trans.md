@@ -1,4 +1,4 @@
-## DIY
+## Transgender Resources
 <hr>
 
 [The DIY HRT Directory 2.0](https://diyhrt.info)<br>

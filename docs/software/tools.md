@@ -8,6 +8,15 @@ Collection of utilities that help you customize Windows.
 [Everything](https://voidtools.com)<br>
 Locate files and folders by name instantly.
 
+[mitmproxy](https://mitmproxy.org)<br>
+Open source interactive HTTPS proxy.
+
+[Bruno](https://usebruno.com)<br>
+A good API client.
+
+[JDownloader](https://jdownloader.org)<br>
+Open-source download management tool.
+
 [Windhawk](https://windhawk.net)<br>
 Customize Windows programs with scripts by the community.
 
@@ -15,7 +24,7 @@ Customize Windows programs with scripts by the community.
 Pinta is a GTK clone of Paint.Net 3.0, with support for Linux, Windows, and macOS.
 
 [Krita](https://krita.org)<br>
-Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
+Krita is a professional open source painting program. It is made by artists that want to see affordable art tools for everyone.
 
 [QBitTorrent](https://qbittorrent.org)<br>
 Open-source software alternative to µTorrent.
@@ -45,7 +54,7 @@ the best keyboard input overlay for OBS and other broadcast software.
 An open source Flash Player emulator.
 
 [VxKex](https://github.com/i486/VxKex)<br>
-Run Windows 8, 8.1 and 10-exclusive apps on Windows 7
+Run Windows 8, 8.1 and 10-exclusive apps on Windows 7.
 
 [Wine](https://winehq.org)<br>
 Run Windows applications on UNIX based systems.

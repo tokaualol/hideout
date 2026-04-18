@@ -2,7 +2,7 @@
 A VPN (virtual private network), creates a tunnel between your device and a server over the internet in order to hide your IP address and gain unrestricted access to global content, block annoying ads, and encrypt your traffic.
 <hr>
 
-[Mullvad VPN](https://mullvad.net) (1)<br>
+:currency: [Mullvad VPN](https://mullvad.net) (1)<br>
 Cryptocurrencies are discounted at 10% due to lower fees, can use an account on up to 5 devices, does not support port forwarding.  
 { .annotate }
 
@@ -19,7 +19,7 @@ FREE tier
 [Riseup VPN](https://riseup.net/vpn)<br>
 FREE
 
-[Mysterium Dark](https://dysteriumdark.com) (1)<br>
+:currency: [Mysterium Dark](https://dysteriumdark.com) (1)<br>
 Pay-As-You-Go, Residental servers.
 { .annotate }
 

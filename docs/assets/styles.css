@@ -10,32 +10,15 @@
 
 :root  > * {
   --md-primary-fg-color:        #A673FF;
-  --md-primary-fg-color--light: #50da00;
   --md-primary-fg-color--dark:  #845CCC;
   --md-accent-fg-color: #845CCC;
   --md-text-font: "Renogare"; 
   --md-code-font: "Minecraft";
 }
 
-.md-header__button.md-logo img, .md-header__button.md-logo svg {
-	border: none;
-}
-
-.md-nav__title .md-nav__button.md-logo img, .md-nav__title .md-nav__button.md-logo svg {
-	border: none;
-}
-
-img {
-	border: 2px solid var(--md-default-fg-color);
-}
-
 .md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card {
 	border: none;
 	padding: 0;
-}
-
-.md-typeset .grid.cards>ol>li:focus-within, .md-typeset .grid.cards>ol>li:hover, .md-typeset .grid.cards>ul>li:focus-within, .md-typeset .grid.cards>ul>li:hover, .md-typeset .grid>.card:focus-within, .md-typeset .grid>.card:hover {
-	box-shadow: none;
 }
 
 .md-typeset h1 {
@@ -49,9 +32,25 @@ img {
 
 .md-header__title {
 	font-family: Minecraft;
-	font-size: 1.3rem;
+	font-size: 2.5em;
 }
 
+/* image stuff */
+.md-typeset img, .md-typeset video {
+	border: 1px solid #FFFFFF;
+}
+
+.md-typeset .grid.cards>ol>li>:last-child, .md-typeset .grid.cards>ul>li>:last-child, .md-typeset .grid>.card>:last-child {
+	display: flex;
+}
+
+/* hover image shadow */
+.md-typeset .grid.cards>ol>li:focus-within, .md-typeset .grid.cards>ol>li:hover, .md-typeset .grid.cards>ul>li:focus-within, .md-typeset .grid.cards>ul>li:hover, .md-typeset .grid>.card:focus-within, .md-typeset .grid>.card:hover {
+	box-shadow: none;
+}
+/* --- */
+
+/* annotations fix */
 .md-annotation__index {
 	margin: 0;
 }
@@ -59,6 +58,7 @@ img {
 .md-annotation__index:after, .md-annotation__index:before {
 	height: 1.8ch;
 }
+/* --- */
 
 .md-footer-meta {
 	display: none;
@@ -66,13 +66,10 @@ img {
 
 .md-nav__item--section>.md-nav__link[for] {
 	font-family: Minecraft;
-	font-size: 1rem;
-	display: flex;
-	align-items: center;
-
+	font-size: 1.3em;
 }
 
 .md-nav--primary .md-nav__title {
 	font-family: Minecraft;
-	font-size: 1rem;
+	font-size: 1.5em;
 }

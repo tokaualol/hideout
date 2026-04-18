@@ -8,26 +8,26 @@
 ## Reference / Character Sheets
 Concept Art ~ Blaze the Cat<br>
 <div class="grid cards" markdown>
-- ![Concept Art ~ Blaze the Cat](../assets/images/refs/blaze/1.jpeg){ loading=lazy }
-- ![Concept Art ~ Blaze the Cat](../assets/images/refs/blaze/2.jpeg){ loading=lazy }
-- ![Concept Art ~ Blaze the Cat](../assets/images/refs/blaze/3.jpeg){ loading=lazy }
-- ![Concept Art ~ Blaze the Cat](../assets/images/refs/blaze/4.jpeg){ loading=lazy }
+- ![Concept Art ~ Blaze the Cat](../assets/img/refs/blaze/1.jpeg){ loading=lazy }
+- ![Concept Art ~ Blaze the Cat](../assets/img/refs/blaze/2.jpeg){ loading=lazy }
+- ![Concept Art ~ Blaze the Cat](../assets/img/refs/blaze/3.jpeg){ loading=lazy }
+- ![Concept Art ~ Blaze the Cat](../assets/img/refs/blaze/4.jpeg){ loading=lazy }
 </div>
 
 ## Hatsune Miku
 
 #### V6
 <div class="grid cards" markdown>
-- ![Reference ~ Hatsune Miku V6](../assets/images/refs/miku/v6/ref.jpg){ loading=lazy }
-- ![Logo ~ Hatsune Miku V6](../assets/images/refs/miku/v6/logo.png){ loading=lazy }
-- ![Hatsune Miku V6](../assets/images/refs/miku/v6/miku.png){ loading=lazy }
+- ![Reference ~ Hatsune Miku V6](../assets/img/refs/miku/v6/ref.jpg){ loading=lazy }
+- ![Logo ~ Hatsune Miku V6](../assets/img/refs/miku/v6/logo.png){ loading=lazy }
+- ![Hatsune Miku V6](../assets/img/refs/miku/v6/miku.png){ loading=lazy }
 </div>
 
 #### V4
-![Hatsune Miku V4](../assets/images/refs/miku/v4.png){ loading=lazy }
+![Hatsune Miku V4](../assets/img/refs/miku/v4.png){ loading=lazy }
 
 ####  V3
-![Hatsune Miku V3](../assets/images/refs/miku/v3.jpg){ loading=lazy }
+![Hatsune Miku V3](../assets/img/refs/miku/v3.jpg){ loading=lazy }
 
 ## My Little Pony
 drawing tutorials, guides, and resources.

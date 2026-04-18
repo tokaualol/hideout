@@ -1,7 +1,7 @@
 welcome to
 ## tokaua's hideout
 
-<!-- ![tokaua](./assets/images/tokaua.png) -->
+<!-- ![tokaua](./assets/img/tokaua.png) -->
 
 !!! tip
     It's essential to have some sort of [Adblock](security/adblock.md) when surfing the internet. Otherwise you meet the risks of malicious popups or ads.
@@ -11,4 +11,4 @@ welcome to
 
 If a resource no longer exists, or has become malicous / adware, please let me know ASAP!
 
-Want to add something, visit [contributing](contributing.md)!
+Want to contribute? visit [contributing](contributing.md)!

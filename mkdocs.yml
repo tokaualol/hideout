@@ -6,8 +6,9 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
-  logo: /assets/logo.png
-  favicon: /assets/favicon.png
+  custom_dir: overrides
+  # logo: /assets/logo.png
+  # favicon: /assets/favicon.png
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -56,7 +57,7 @@ extra:
 #       lang: es
 
 extra_css:
-  - /assets/css/styles.css
+  - /assets/styles.css
 
 plugins:
   - search
@@ -82,6 +83,12 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: "#"
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
 
 nav:
   - Index: index.md
@@ -121,7 +128,7 @@ nav:
     - Roblox: vg/roblox.md
 
   - 🏳️‍🌈 LGBTQ+:
-    - DIY: lgbtq/diy.md
+    - Transgender: lgbtq/trans.md
 
   - ⭐ Fun:
     - Websites: fun/websites.md

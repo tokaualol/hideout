@@ -1,4 +1,5 @@
 ## Self Host
+
 <hr>
 
 [Jellyfin](https://jellyfin.org)<br>
@@ -14,4 +15,4 @@ Open Source Machine Translation API
 A static HTML generator for yt-dlp video archives.
 
 [qui](https://getqui.com)<br>
-Multi-instance manager for qBittorrent with support for automation, backups and cross-seeding across multiple trackers
+Multi-instance manager for qBittorrent with support for automation, backups and cross-seeding across multiple trackers.
