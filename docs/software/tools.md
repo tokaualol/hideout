@@ -29,7 +29,7 @@ Krita is a professional open source painting program. It is made by artists that
 [QBitTorrent](https://qbittorrent.org)<br>
 Open-source software alternative to µTorrent.
 
-[Bulk Crap Uninstaller](https://bcuninstaller.com)<br>
+[Bulk Crap Uninstaller](https://www.bcuninstaller.com)<br>
 Remove large amounts of unwanted applications quickly and clean up leftovers.
 
 [BleachBit](https://bleachbit.org)<br>

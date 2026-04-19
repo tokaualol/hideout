@@ -19,7 +19,7 @@ FREE tier
 [Riseup VPN](https://riseup.net/vpn)<br>
 FREE
 
-:currency: [Mysterium Dark](https://dysteriumdark.com) (1)<br>
+:currency: [Mysterium Dark](https://mysteriumdark.com) (1)<br>
 Pay-As-You-Go, Residental servers.
 { .annotate }
 
