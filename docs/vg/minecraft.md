@@ -2,6 +2,9 @@
 Minecraft related tools or other software.
 <hr>
 
+[MCTools](https://mc-tools.net/)<br>
+A website containing many easy-to-use tools for creating, editing and converting things for Minecraft. 
+
 [MCA Selector](https://github.com/Querz/mcaselector)<br>
 A tool to export or delete selected chunks and regions from a Java Edition world.
 
