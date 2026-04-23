@@ -22,3 +22,11 @@ Yet another Discord client mod, focused on providing a decent user and developer
 ## Twitter
 [nitter](https://nitter.net)<br>
 Open source alternative Twitter front-end focused on privacy and performance.
+
+## Adobe
+
+[Affinity](https://affinity.studio)<br>
+Professional design, photo editing, and page layout.
+
+[Cavalry](https://cavalry.studio)<br>
+Professional, real-time animation software.

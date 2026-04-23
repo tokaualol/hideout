@@ -14,6 +14,9 @@ The largest collection of malware source code, samples, and papers on the intern
 [Bypass.link](https://bypass.link/)<br>
 Bypasser for Linkvertise, LootLabs, Rekonise, Mboost, Work.ink and more.
 
+[Web Design Museum](https://webdesignmuseum.org)<br>
+Thousands of screenshots and videos of websites, apps, software, and Flash games from the 1990s to the late 2000s.
+
 [Have I Been Pwned](https://haveibeenpwned.com)<br>
 Check if your email address is in a data breach.
 
@@ -78,6 +81,9 @@ Massive icon library.
 
 [Bootstrap Icons](https://icons.getbootstrap.com)<br>
 High quality, open source icon library with over 2,000 icons.
+
+[Material Symbols & Icons](https://fonts.google.com/icons)<br>
+Icons by Google.
 
 [FilterLists](https://filterlists.com)<br>
 Directory of filter and host lists for advertisements, trackers, malware, and annoyances.
