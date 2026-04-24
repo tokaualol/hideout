@@ -2,11 +2,14 @@
 Useful extensions for Chromium & Firefox based browsers.
 <hr>
 
+:star: [Imagus](https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)<br>
+Enlarge images/thumbnails on mouse hover, with highly customizable settings.
+
+:star: [Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke)<br>
+Allows you to change the volume of tabs on browsers.
+
 [BetterTTV](https://betterttv.com)<br>
 Adds extra emotes and makes the overall chat experience for Twitch much better.
-
-[Imagus](https://chromewebstore.google.com/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)<br>
-Enlarge images/thumbnails on mouse hover, with highly customizable settings.
 
 [Truffle](https://truffle.vip)<br>
 Makes the Youtube Live chatting experience much better with custom emotes and improved UI.
@@ -22,12 +25,6 @@ Toggle to stop websites from disabling pasting.
 
 [User-Agent Switcher and Manager](https://chromewebstore.google.com/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg)<br>
 Allows you to spoof your web-browser.
-
-[Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke)<br>
-Allows you to change the volume of tabs on browsers.
-
-[SponsorBlock](https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)<br>
-Allows you to skip annoying self-promos, non-music segments on music videos, intros, and much more... for YouTube videos.
 
 [DeArrow](https://chromewebstore.google.com/detail/dearrow-better-titles-and/enamippconapkdmgfgjchkhakpfinmaj)<br>
 Removes clickbait looking like titles and thumbnails from YouTube videos.

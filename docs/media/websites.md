@@ -1,27 +1,44 @@
 ## Websites
 <hr>
 
-[Internet Archive](https://archive.org) (1)<br>
+:star: [Internet Archive](https://archive.org) (1)<br>
 A non-profit library of millions of archived texts, movies, software, music, websites, and more.
 { .annotate }
 
 1.  The [Wayback Machine](https://web.archive.org) allows you to view snapshots of websites
     from any point in time it's active.
 
-[vx-underground](https://vx-underground.org)<br>
+:star: [vx-underground](https://vx-underground.org)<br>
 The largest collection of malware source code, samples, and papers on the internet.
 
-[Bypass.link](https://bypass.link/)<br>
+:star: [Bypass.link](https://bypass.link/)<br>
 Bypasser for Linkvertise, LootLabs, Rekonise, Mboost, Work.ink and more.
 
-[Web Design Museum](https://webdesignmuseum.org)<br>
-Thousands of screenshots and videos of websites, apps, software, and Flash games from the 1990s to the late 2000s.
-
-[Have I Been Pwned](https://haveibeenpwned.com)<br>
+:star: [Have I Been Pwned](https://haveibeenpwned.com)<br>
 Check if your email address is in a data breach.
+
+:paid: :star: [Humble Bundle](https://humblebundle.com)<br>
+Selling games, ebooks, software, and other digital content at a great price, while supporting charity.
+
+:star: [IsThereAnyDeal](https://isthereanydeal.com)<br>
+Search for any current or past deals on video games, with price tracking & history.
+
+:star: [Anna's Archive](https://annas-archive.gl) (1)<br>
+The world’s largest open-source open-data library.
+{ .annotate }
+
+1.  Mirrors:<br>
+    [annas-archive.pk](https://annas-archive.pk)<br>
+    [annas-archive.gd](https://annas-archive.gd)
+
+:star: [Z-Library](https://z-lib.sk)<br>
+The world’s largest e-book library. 
 
 [Open Graph Protocol](https://ogp.me)<br>
 List of common website metadata.
+
+[VGen](https://vgen.co)<br>
+A community and marketplace dedicated to empowering and protecting human creativity.
 
 [BT4G](https://bt4gprx.com)<br>
 Torrent Search Engine
@@ -35,9 +52,6 @@ Super simple and easy to use image placeholder generator.
 [Triage](https://tria.ge)<br>
 A state-of-the–art malware analysis sandbox.
 
-:currency: [Humble Bundle](https://humblebundle.com)<br>
-Selling games, ebooks, software, and other digital content at a great price, while supporting charity.
-
 [Avatar Cropper](https://avatarcropper.com)<br>
 Simple quick avatar cropper!
 
@@ -50,9 +64,6 @@ List of a ton of IEMs, with reviews and prices and other useful stats.
 [The Cutting Room Floor](https://tcrf.net)<br>
 A wiki which hosts & documents many unused or cut content from different video games.
 
-[IsThereAnyDeal](https://isthereanydeal.com)<br>
-Search for any current or past deals on video games, with price tracking & history.
-
 [TLD List](https://tld-list.com)<br>
 Compare prices of domain tlds across different registrars. 
 
@@ -61,17 +72,6 @@ Anime-Style art image upscaler.
 
 [color-hex](https://color-hex.com)<br>
 Information about colors including color models (RGB,HSL,HSV and CMYK), Triadic colors, monochromatic colors and analogous colors calculated in color page.
-
-[Anna's Archive](https://annas-archive.gl) (1)<br>
-The world’s largest open-source open-data library.
-{ .annotate }
-
-1.  Mirrors:<br>
-    [annas-archive.pk](https://annas-archive.pk)<br>
-    [annas-archive.gd](https://annas-archive.gd)
-
-[Z-Library](https://z-lib.sk)<br>
-The world’s largest e-book library. 
 
 [Does X game support Linux?](https://areweanticheatyet.com)<br>
 A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
@@ -89,7 +89,7 @@ Icons by Google.
 Directory of filter and host lists for advertisements, trackers, malware, and annoyances.
 
 ## File Storage(s)
-[CatBox](https://catbox.moe)<br>
+:star: [CatBox](https://catbox.moe)<br>
 [LitterBox](https://litterbox.catbox.moe) (Temoporary)<br>
 [Mega](https://mega.nz)<br>
 [GoFile](https://gofile.io)<br>
@@ -97,12 +97,12 @@ Directory of filter and host lists for advertisements, trackers, malware, and an
 
 ## Static Hosting Sites
 
-[nekoweb](https://nekoweb.org)<br>
+:star: [nekoweb](https://nekoweb.org)<br>
 [Neocities](https://neocities.org)<br>
 
 ## Media Downloader(s)
 
-[cobalt.tools](https://cobalt.tools) (1)<br>
+:star: [cobalt.tools](https://cobalt.tools) (1)<br>
 Download video, audio, photos or gifs from your favorite websites!
 { .annotate }
 
@@ -114,7 +114,7 @@ Download video, audio, photos or gifs from your favorite websites!
     [cobalt.canine.tools](https://cobalt.canine.tools)
 
 ## Media Converter(s)
-[VERT](https://vert.sh)<br>
+:star: [VERT](https://vert.sh)<br>
 [Ezgif](https://ezgif.com/converters)<br>
 
 ## Resource Hub(s)

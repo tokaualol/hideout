@@ -25,14 +25,15 @@ Finally, wait for your contributions to be merged and make sure you haven't been
 description of thing
 ```
 
-3. If the resource you are adding doesn't have any FREE or open-source options, you must add :currency: to indicate that it is paid only.
+3. If the resource you are adding doesn't have any FREE or open-source options, you must add :paid: to indicate that it is paid only.
 ```
-:currency: [NAME](https://link-to-tool) (1)<br>
+:paid: [NAME](https://link-to-tool) (1)<br>
 description of thing
 { .annotate }
 
-1.  Pricing: $9.99<br><br>Payment Methods:
-<br>Credit Card, PayPal, Google Pay
+1.  Pricing: $9.99<br><br>
+    Payment Methods:<br>
+    Credit Card, PayPal, Google Pay
 ```
 
 4. If the resource you add is software, and doesn't have source code available, please make sure what you are adding is safe, run it through [VirusTotal](https://virustotal.com) at the bare minimum, or do your own analysis.

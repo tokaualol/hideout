@@ -3,12 +3,14 @@ welcome to
 
 <!-- ![tokaua](./assets/img/tokaua.png) -->
 
+This is a wiki that contains a collection of useful websites, tools, and other media!
+
 !!! tip
-    It's essential to have some sort of [Adblock](security/adblock.md) when surfing the internet. Otherwise you meet the risks of malicious popups or ads.
+    It's essential to have some sort of [Adblock](security/adblock.md) when surfing the internet, otherwise you risk getting malicious popups or ads.
 
 !!! warning
-    While the contents of this site are checked to be safe at the time of uploading, please verify yourself that what you are downloading is the legitimate resource and has not been tampered with in any way, always be vigilant.
+    The contents of this site are checked to be safe at the time of uploading, however please verify yourself that what you are downloading is the legitimate resource and has not been tampered with in any way, always be vigilant.
 
-If a resource no longer exists, or has become malicous / adware, please let me know ASAP!
+If a resource has been infected with malware, please let me know ASAP!
 
 Want to contribute? visit [contributing](contributing.md)!

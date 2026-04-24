@@ -9,8 +9,8 @@
 }
 
 :root  > * {
-  --md-primary-fg-color:        #A673FF;
-  --md-primary-fg-color--dark:  #845CCC;
+  --md-primary-fg-color: #A673FF;
+  --md-primary-fg-color--dark: #845CCC;
   --md-accent-fg-color: #845CCC;
   --md-text-font: "Renogare"; 
   --md-code-font: "Minecraft";
@@ -36,10 +36,6 @@
 }
 
 /* image stuff */
-.md-typeset img, .md-typeset video {
-	border: 1px solid #FFFFFF;
-}
-
 .md-typeset .grid.cards>ol>li>:last-child, .md-typeset .grid.cards>ul>li>:last-child, .md-typeset .grid>.card>:last-child {
 	display: flex;
 }

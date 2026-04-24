@@ -2,7 +2,7 @@
 An adblock is a piece of software that blocks adveristments and intrusive elements.
 <hr>
     
-[uBlock Origin](https://ublockorigin.com) (1)<br>
+:star: [uBlock Origin](https://ublockorigin.com) (1)<br>
 More than just an Ad blocker, blocks trackers, coin miners, popups, annoying anti-blockers, malware sites, etc.
 { .annotate }
     
@@ -21,7 +21,7 @@ More than just an Ad blocker, blocks trackers, coin miners, popups, annoying ant
 [uBlacklist](https://ublacklist.github.io)<br>
 Blocks specific sites from appearing in Google search results.
 
-[SponsorBlock](https://sponsor.ajay.app)<br>
+:star: [SponsorBlock](https://sponsor.ajay.app)<br>
 Allows you to skip annoying self-promos, non-music segments on music videos, intros, and much more on YouTube.
 
 ## DNS

@@ -13,3 +13,6 @@ The most customizable typing website with a minimalistic design and a ton of fea
 
 [WebTiles](https://webtiles.kicya.net)<br>
 A collection of user made websites in a tile format.
+
+[Web Design Museum](https://webdesignmuseum.org)<br>
+Thousands of screenshots and videos of websites, apps, software, and Flash games from the 1990s to the late 2000s.

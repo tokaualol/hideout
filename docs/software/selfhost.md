@@ -2,7 +2,7 @@
 
 <hr>
 
-[Jellyfin](https://jellyfin.org)<br>
+:star: [Jellyfin](https://jellyfin.org)<br>
 Media System that puts you in control of managing and streaming your media.
 
 [Kavita](https://kavitareader.com)<br>

@@ -91,21 +91,20 @@ markdown_extensions:
           - overrides/.icons
 
 nav:
-  - Index: index.md
+  - About: index.md
 
-  - 🔒 Security:
+  - 🔐 Security & Privacy:
     - VPNs: security/vpns.md
     - Ad Blocking: security/adblock.md
+    - Alternaives: security/alternatives.md
     - Encryption: security/encrypt.md
-
-  - 📵 Privacy:
-    - Alternaives: privacy/alternatives.md
 
   - 💾 Software:
     - Tools: software/tools.md
     - Scripts: software/scripts.md
     - Extensions: software/extensions.md
     - Self Host: software/selfhost.md
+    - Piracy: software/piracy.md
 
   - 🍿 Media:
     - Websites: media/websites.md
@@ -120,12 +119,12 @@ nav:
     - Self Host: guides/selfhost.md
     - Other: guides/other.md
 
-  - 🕹️ Video Games:
-    - Emulation: vg/emulation.md
-    - Minecraft: vg/minecraft.md
-    - Fortnite: vg/fortnite.md
-    - VALVE: vg/valve.md
-    - Roblox: vg/roblox.md
+  - 🕹️ Gaming:
+    - Emulation: gaming/emulation.md
+    - Minecraft: gaming/minecraft.md
+    - Fortnite: gaming/fortnite.md
+    - VALVE: gaming/valve.md
+    - Roblox: gaming/roblox.md
 
   - 🏳️‍🌈 LGBTQ+:
     - Transgender: lgbtq/trans.md
