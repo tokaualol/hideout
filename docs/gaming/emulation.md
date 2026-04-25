@@ -13,6 +13,9 @@ Cross-platform, open source, multi-system emulator, focusing on accuracy and pre
 [Pretendo Network](https://pretendo.network)<br>
 Open source replacement for Nintendo's servers for both the 3DS and Wii U.
 
+[hShop](https://hshop.erista.me)<br>
+Legit 3DS games and DLC for download.
+
 ### Switch
 
 #### Emulator(s)
