@@ -1,3 +1,7 @@
+---
+icon: movie
+---
+
 ## Movies & TV
 <hr>
 

@@ -1,3 +1,7 @@
+---
+icon: vpn
+---
+
 ## VPNs
 A VPN (virtual private network), creates a tunnel between your device and a server over the internet in order to hide your IP address and gain unrestricted access to global content, block annoying ads, and encrypt your traffic.
 <hr>

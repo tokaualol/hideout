@@ -1,3 +1,7 @@
+---
+icon: contribute
+---
+
 ## Contributing
 If you want to contribute, please read this thoroughly!
 

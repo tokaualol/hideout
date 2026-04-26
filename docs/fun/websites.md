@@ -1,4 +1,8 @@
-## Fun
+---
+icon: globe
+---
+
+## Fun Websites
 Cool stuff people have made.
 <hr>
 

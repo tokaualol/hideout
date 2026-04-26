@@ -1,3 +1,7 @@
+---
+icon: host
+---
+
 ## Self Host
 <hr>
 

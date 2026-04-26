@@ -1,3 +1,7 @@
+---
+icon: adblock
+---
+
 ## Ad Blocking
 An adblock is a piece of software that blocks adveristments and intrusive elements.
 <hr>

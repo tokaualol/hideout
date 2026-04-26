@@ -1,3 +1,7 @@
+---
+icon: skull
+---
+
 ## Piracy
 Modified tools or software that removes licenses that are usually paid.
 <hr>

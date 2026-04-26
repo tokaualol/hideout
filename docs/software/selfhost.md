@@ -1,5 +1,8 @@
-## Self Host
+---
+icon: lan
+---
 
+## Self Host
 <hr>
 
 :star: [Jellyfin](https://jellyfin.org)<br>

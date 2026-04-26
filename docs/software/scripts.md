@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 ## Scripts
 a collection of useful scripts for various tasks.
 <hr>

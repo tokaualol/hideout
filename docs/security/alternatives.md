@@ -1,3 +1,7 @@
+---
+icon: alt
+---
+
 ## Alternatives
 These are more privacy focused alternatives to many popular social media's or services, as well as including patches or software that removes telemetry.
 <hr>

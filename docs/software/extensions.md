@@ -1,3 +1,7 @@
+---
+icon: chrome
+---
+
 ## Extensions
 Useful extensions for Chromium & Firefox based browsers.
 <hr>

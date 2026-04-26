@@ -1,3 +1,7 @@
+---
+icon: info
+---
+
 welcome to
 ## tokaua's hideout
 

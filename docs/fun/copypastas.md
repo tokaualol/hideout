@@ -1,3 +1,7 @@
+---
+icon: clipboard
+---
+
 ## Copypastas
 <hr>
 

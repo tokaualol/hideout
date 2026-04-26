@@ -1,3 +1,7 @@
+---
+icon: wallpaper
+---
+
 ## Wallpapers
 <hr>
 

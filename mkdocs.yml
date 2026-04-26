@@ -37,7 +37,7 @@ theme:
     - navigation.instant.progress
     - navigation.tracking
     - navigation.sections
-    - navigation.path
+    - navigation.top
     - search.suggest
     - search.share
     - header.autohide
@@ -92,21 +92,22 @@ markdown_extensions:
 
 nav:
   - About: index.md
+  # - Hall of Fame: hoa.md
 
-  - 🔐 Security & Privacy:
+  - Security:
     - VPNs: security/vpns.md
     - Ad Blocking: security/adblock.md
     - Alternaives: security/alternatives.md
     - Encryption: security/encrypt.md
 
-  - 💾 Software:
+  - Software:
     - Tools: software/tools.md
     - Scripts: software/scripts.md
     - Extensions: software/extensions.md
     - Self Host: software/selfhost.md
     - Piracy: software/piracy.md
 
-  - 🍿 Media:
+  - Media:
     - Websites: media/websites.md
     - Movies & TV: media/moviestv.md
     - Anime & Manga: media/animemanga.md
@@ -115,21 +116,21 @@ nav:
     - Creators: media/creators.md
     - Videos: media/videos.md
 
-  - 📚 Guides:
+  - Guides:
     - Self Host: guides/selfhost.md
     - Other: guides/other.md
 
-  - 🕹️ Gaming:
+  - Gaming:
     - Emulation: gaming/emulation.md
     - Minecraft: gaming/minecraft.md
     - Fortnite: gaming/fortnite.md
     - VALVE: gaming/valve.md
     - Roblox: gaming/roblox.md
 
-  - 🏳️‍🌈 LGBTQ+:
+  - LGBTQ+:
     - Transgender: lgbtq/trans.md
 
-  - ⭐ Fun:
+  - Fun:
     - Websites: fun/websites.md
     - Copypastas: fun/copypastas.md
 

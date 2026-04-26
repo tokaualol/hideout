@@ -1,3 +1,7 @@
+---
+icon: credit
+---
+
 ## Credits
 [tokaua](https://tokaua.lol) ~ creator
 

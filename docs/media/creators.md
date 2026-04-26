@@ -1,3 +1,7 @@
+---
+icon: person
+---
+
 ## Creators
 <hr>
 

@@ -1,3 +1,7 @@
+---
+icon: dpad
+---
+
 ## Emulation
 Emulation software & other resources.
 <hr>
