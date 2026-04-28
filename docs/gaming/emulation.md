@@ -73,3 +73,9 @@ Legit 3DS games and DLC for download.
 #### Emulator(s)
 
 [RPCS3](https://rpcs3.net)
+
+### Playstation 2 (PS2)
+
+#### Emulator(s)
+
+[PCSX2](https://pcsx2.net)

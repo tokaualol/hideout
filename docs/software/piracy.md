@@ -13,10 +13,18 @@ Modified tools or software that removes licenses that are usually paid.
 <small>aHR0cHM6Ly9tYXNzZ3JhdmUuZGV2</small><br>
 An open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 
-m0nkrus<br>
+:star: m0nkrus<br>
 <small>aHR0cHM6Ly93MTgubW9ua3J1cy53cw==</small><br>
 Adobe software
 
 MalwareWatch<br>
 <small>aHR0cHM6Ly9kbC5tYWx3YXJld2F0Y2gub3JnL3NvZnR3YXJlL3VzZWZ1bC9tZWRpYS92ZWdhcw==</small><br>
 Sony VEGAS
+
+:star: DODI Repacks<br>
+<small>aHR0cHM6Ly9kb2RpLXJlcGFja3Muc2l0ZQ==</small><br>
+Video Game Repacks
+
+FitGirl Repacks<br>
+<small>aHR0cHM6Ly9maXRnaXJsLXJlcGFja3Muc2l0ZQ==</small><br>
+Video Game Repacks
