@@ -53,6 +53,15 @@ Community made mods for Video Games.
 [Rebane's Discord Colored Text Generator](https://rebane2001.com/discord-colored-text-generator)<br>
 Create colored Discord messages using the ANSI color codes.
 
+[The Spriters Resource](https://spriters-resource.com) (1)<br>
+Sprites, sound effects, 3D models, and textures ripped from video games.
+{ .annotate }
+
+1.  Mirrors:<br>
+    [The Sounds Resource](https://sounds.spriters-resource.com)<br>
+    [The Models Resource](https://models.spriters-resource.com)<br>
+    [The Textures Resource](https://textures.spriters-resource.com)
+
 [Placehold](https://placehold.co)<br>
 Super simple and easy to use image placeholder generator.
 
