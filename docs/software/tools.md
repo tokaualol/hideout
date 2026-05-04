@@ -27,6 +27,12 @@ A good API client.
 [JDownloader](https://jdownloader.org)<br>
 Open-source download management tool.
 
+[PureRef](https://pureref.com)<br>
+Minimalistic image reference and mood board.
+
+[nomacs](https://nomacs.org)<br>
+Open source image viewer & editor.   
+
 [Windhawk](https://windhawk.net)<br>
 Customize Windows programs with scripts by the community.
 

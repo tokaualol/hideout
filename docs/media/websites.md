@@ -57,8 +57,7 @@ Create colored Discord messages using the ANSI color codes.
 Sprites, sound effects, 3D models, and textures ripped from video games.
 { .annotate }
 
-1.  Mirrors:<br>
-    [The Sounds Resource](https://sounds.spriters-resource.com)<br>
+1.  [The Sounds Resource](https://sounds.spriters-resource.com)<br>
     [The Models Resource](https://models.spriters-resource.com)<br>
     [The Textures Resource](https://textures.spriters-resource.com)
 
@@ -149,3 +148,4 @@ if you can't find what your looking for in the hideout, these are the places i r
 A taggable imageboard, with sophisticated features for keeping, organizing and finding pictures.
 
 [4chan](https://4chan.org)<br>
+Anonymous image-based board where anyone can post comments and images.
