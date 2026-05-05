@@ -105,7 +105,7 @@ Directory of filter and host lists for advertisements, trackers, malware, and an
 
 ## File Storage(s)
 :star: [CatBox](https://catbox.moe)<br>
-[LitterBox](https://litterbox.catbox.moe) (Temoporary)<br>
+[LitterBox](https://litterbox.catbox.moe) (Temporary)<br>
 [Mega](https://mega.nz)<br>
 [GoFile](https://gofile.io)<br>
 [Mediafire](https://mediafire.com)<br>

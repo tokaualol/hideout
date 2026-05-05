@@ -6,7 +6,7 @@ icon: adblock
 An adblock is a piece of software that blocks adveristments and intrusive elements.
 <hr>
     
-:star: [uBlock Origin](https://ublockorigin.com) (1)<br>
+:star: [uBlock Origin](https://github.com/gorhill/uBlock) (1)<br>
 More than just an Ad blocker, blocks trackers, coin miners, popups, annoying anti-blockers, malware sites, etc.
 { .annotate }
     
