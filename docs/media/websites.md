@@ -79,6 +79,9 @@ List of a ton of IEMs, with reviews and prices and other useful stats.
 [The Cutting Room Floor](https://tcrf.net)<br>
 A wiki which hosts & documents many unused or cut content from different video games.
 
+[Kenney](https://kenney.nl/assets)<br>
+Free game assets ranging from UI to 3D models, and other miscellaneous textures.
+
 [TLD List](https://tld-list.com)<br>
 Compare prices of domain tlds across different registrars. 
 
@@ -93,6 +96,9 @@ A comprehensive and crowd-sourced list of games using anti-cheats and their comp
 
 [Font Awesome](https://fontawesome.com/search)<br>
 Massive icon library.
+
+[Adobe Font Visual Search](https://fonts.adobe.com/fonts/vs/upload)<br>
+A reverse image search for latin text.
 
 [Bootstrap Icons](https://icons.getbootstrap.com)<br>
 High quality, open source icon library with over 2,000 icons.

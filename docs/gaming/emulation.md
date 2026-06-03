@@ -51,7 +51,6 @@ Legit 3DS games and DLC for download.
 
 #### Emulator(s)
 
-[Parallel Launcher](https://parallel-launcher.ca)<br>
 [Project64](https://pj64-emu.com)
 
 ### SNES

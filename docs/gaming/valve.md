@@ -10,6 +10,8 @@ Steam server status.
 [SteamID](https://steamid.uk)<br>
 Steam profile lookup with history.
 
+[Valve Archive](https://valvearchive.com)<br>
+
 [ChatterBox for Source](https://ralphorama.github.io)<br>
 Generate a list of say binds that rotate.
 

@@ -24,6 +24,9 @@ Open source interactive HTTPS proxy.
 [Bruno](https://usebruno.com)<br>
 A good API client.
 
+[ReVanced](https://revanced.app)<br>
+Apply a ton of custom patches to Android applications.
+
 [JDownloader](https://jdownloader.org)<br>
 Open-source download management tool.
 
