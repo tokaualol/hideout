@@ -19,3 +19,6 @@ A static HTML generator for yt-dlp video archives.
 
 [qui](https://getqui.com)<br>
 Multi-instance manager for qBittorrent with support for automation, backups and cross-seeding across multiple trackers.
+
+[tekno's YouTube Archiver](https://github.com/f0e/youtube-archiver)<br>
+Archive YouTube content and rehost it inside a clean modern interface.

@@ -97,8 +97,9 @@ nav:
   - Security:
     - VPNs: security/vpns.md
     - Ad Blocking: security/adblock.md
-    - Alternaives: security/alternatives.md
+    - Alternatives: security/alternatives.md
     - Encryption: security/encrypt.md
+    - Scams: security/scams.md
 
   - Software:
     - Tools: software/tools.md

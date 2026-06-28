@@ -9,29 +9,8 @@ icon: paint
 
     There may be NSFW content on this page, or it's subpages.
 
-## Reference / Character Sheets
-Concept Art ~ Blaze the Cat<br>
-<div class="grid cards" markdown>
-- ![Concept Art ~ Blaze the Cat](../assets/img/refs/blaze/1.jpeg){ loading=lazy }
-- ![Concept Art ~ Blaze the Cat](../assets/img/refs/blaze/2.jpeg){ loading=lazy }
-- ![Concept Art ~ Blaze the Cat](../assets/img/refs/blaze/3.jpeg){ loading=lazy }
-- ![Concept Art ~ Blaze the Cat](../assets/img/refs/blaze/4.jpeg){ loading=lazy }
-</div>
-
-## Hatsune Miku
-
-#### V6
-<div class="grid cards" markdown>
-- ![Reference ~ Hatsune Miku V6](../assets/img/refs/miku/v6/ref.jpg){ loading=lazy }
-- ![Logo ~ Hatsune Miku V6](../assets/img/refs/miku/v6/logo.png){ loading=lazy }
-- ![Hatsune Miku V6](../assets/img/refs/miku/v6/miku.png){ loading=lazy }
-</div>
-
-#### V4
-![Hatsune Miku V4](../assets/img/refs/miku/v4.png){ loading=lazy }
-
-####  V3
-![Hatsune Miku V3](../assets/img/refs/miku/v3.jpg){ loading=lazy }
+[Settei Dreams](https://setteidreams.net)<br>
+Animation production materials, ranging from artbooks, storyboards, and production sketches.
 
 ## My Little Pony
 drawing tutorials, guides, and resources.
