@@ -29,8 +29,8 @@ Since Minecraft mods are just `.jar's`, they can add whatever code they want and
 Here is an example of a malicious decompiled mod.
 ![Decompilation](../assets/img/scams/mcmodpack/4.png){ loading=lazy }
 
-Once they compromise your computer, these mods will search for any accounts that they can steal, usally stuff like Crypto wallets, Discord accounts, or browser cookies.
-Then they most likely sell these accounts to cheap for others to use malicously, or if you are a high valued person, go through these accounts and extort you for any important or confidental information they may have as their main motive is $$$.
+Once they compromise your computer, these mods will search for any accounts that they can steal, usually stuff like Crypto wallets, Discord accounts, or browser cookies.
+Then they most likely sell these accounts to cheap for others to use malicously, or if you are a high valued victim, go through these accounts and extort you for any important or confidental information they may have as their main motive is $$$.
 
 In this case they will use your Discord account, to repeat the process, and send this same malicious modpack to YOUR friends.
 
