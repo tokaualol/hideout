@@ -10,6 +10,9 @@ These are more privacy focused alternatives to many popular social media's or se
 :star: [Helium](https://helium.computer)<br>
 Best privacy and unbiased ad-blocking by default. No adware, no bloat, no noise. Made for people, by people. Fully open source.
 
+[Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)<br>
+A lightweight approach to removing Google web service dependency.
+
 ## Discord
 [matrix](https://matrix.org)<br>
 An open network for secure, decentralised communication.

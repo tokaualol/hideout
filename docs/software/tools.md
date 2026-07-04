@@ -30,6 +30,9 @@ Apply a ton of custom patches to Android applications.
 [JDownloader](https://jdownloader.org)<br>
 Open-source download management tool.
 
+[System Informer](https://systeminformer.com)<br>
+A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+
 [PureRef](https://pureref.com)<br>
 Minimalistic image reference and mood board.
 

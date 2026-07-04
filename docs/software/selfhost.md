@@ -17,6 +17,12 @@ Open Source Machine Translation API
 [Hobune](https://github.com/rebane2001/hobune)<br>
 A static HTML generator for yt-dlp video archives.
 
+[h5ai](https://github.com/lrsjng/h5ai)<br>
+A modern HTTP web server index for Apache httpd, lighttpd, and nginx.
+
+[Uguu](https://github.com/nokonoko/Uguu)<br>
+A simple lightweight temporary file host with support for drop, paste, click and API uploading.
+
 [qui](https://getqui.com)<br>
 Multi-instance manager for qBittorrent with support for automation, backups and cross-seeding across multiple trackers.
 
