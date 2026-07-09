@@ -30,6 +30,9 @@ Apply a ton of custom patches to Android applications.
 [JDownloader](https://jdownloader.org)<br>
 Open-source download management tool.
 
+[System Informer](https://systeminformer.com)<br>
+A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
+
 [Sysinternals](https://learn.microsoft.com/en-us/sysinternals) — [List of apps & descriptions](https://learn.microsoft.com/en-us/sysinternals/downloads)<br>
 A suite of tools that contains extensive individual troubleshooting tools and help files.<br>
 
@@ -44,12 +47,6 @@ Customize Windows programs with scripts by the community.
 
 [BleachBit](https://bleachbit.org)<br>
 Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and discard junk.
-
-[Microsoft Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)<br>
-An advanced monitoring tool for Windows that shows real-time file system, Registry and process/thread activity.
-
-[Microsoft Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer)<br>
-Shows you information about which handles and DLLs processes have opened or loaded.
 
 [HandBrake](https://handbrake.fr)<br>
 Open-source video transcoder.
