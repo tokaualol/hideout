@@ -45,7 +45,13 @@ function SetFavoriteFeaturedBadge(access_token, badgeid) {
 [CSFloat Market Checker](https://chromewebstore.google.com/detail/csfloat-market-checker/jjicbefpemnphinccgikpdaagjebbnhg)<br>
 Shows the float value, paint seed, and more of Counter-Strike items on the Steam Market or Inventories.
 
+[Skinshotter](https://skinshotter.com)<br>
+View any CS2 skin in true-to-game 3D in a browser — rendered with Counter-Strike 2's own Source 2 shaders and in-game lighting, so float, pattern, and finish match the game exactly.
+
 [NoLobbyReservation](https://github.com/honey-malviya/No-Lobby-Reservation)<br>
 A SourceMod plugin which allows CSGO servers to be joinable again.
+
+[csgo_gc](https://github.com/GT-610/csgo_gc)<br>
+WIP Intelligent Game Coordinator for CS:GO
 
 ## Deadlock

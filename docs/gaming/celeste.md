@@ -2,4 +2,4 @@
 <hr>
 
 [Everest](https://everestapi.github.io)<br>
-Celeste Mod Loader.
+Mod loader and modding API for Celeste.

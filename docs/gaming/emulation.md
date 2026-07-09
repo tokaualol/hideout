@@ -12,6 +12,9 @@ Frontend for emulators, game engines and media players, available on a wide vari
 [ares](https://ares-emu.net)<br>
 Cross-platform, open source, multi-system emulator, focusing on accuracy and preservation.
 
+[RetroAchievements](https://retroachievements.org)<br>
+Add achivements to Retro video games.
+
 ## Nintendo
 
 [Pretendo Network](https://pretendo.network)<br>
@@ -67,14 +70,26 @@ Legit 3DS games and DLC for download.
 
 ## Sony
 
-### Playstation 3 (PS3)
+### Playstation 1 (PS1)
 
 #### Emulator(s)
 
-[RPCS3](https://rpcs3.net)
+[DuckStation](https://duckstation.org)
 
 ### Playstation 2 (PS2)
 
 #### Emulator(s)
 
 [PCSX2](https://pcsx2.net)
+
+### Playstation 3 (PS3)
+
+#### Emulator(s)
+
+[RPCS3](https://rpcs3.net)
+
+### Playstation 4 (PS4)
+
+#### Emulator(s)
+
+[shadPS4](https://shadps4.net)

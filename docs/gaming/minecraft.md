@@ -2,6 +2,9 @@
 Minecraft related tools or other software.
 <hr>
 
+[Minecraft Wiki](https://minecraft.wiki)<br>
+The most comprehensive wiki about the Minecraft franchise.
+
 [MCTools](https://mc-tools.net/)<br>
 A website containing many easy-to-use tools for creating, editing and converting things for Minecraft. 
 
