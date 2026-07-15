@@ -68,6 +68,26 @@ Legit 3DS games and DLC for download.
 
 [Mesen](https://mesen.ca)
 
+## XBOX
+
+### Xbox (Original)
+
+#### Emulator(s)
+
+[xemu](https://xemu.app)<br>
+
+### Xbox 360
+
+#### Emulator(s)
+
+[xenia](https://xenia.jp)<br>
+
+### Xbox One
+
+#### Emulator(s)
+
+[WinDurango](https://github.com/WinDurango/WinDurango)<br>
+
 ## Sony
 
 ### Playstation 1 (PS1)

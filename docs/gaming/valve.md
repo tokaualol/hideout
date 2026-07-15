@@ -15,6 +15,12 @@ Steam profile lookup with history.
 [ChatterBox for Source](https://ralphorama.github.io)<br>
 Generate a list of say binds that rotate.
 
+[VPKEdit](https://github.com/craftablescience/VPKEdit)<br>
+A CLI/GUI tool to create, read, and write several pack file formats.
+
+[Source 2 Viewer](https://s2v.app)<br>
+View, export, and decompile Source 2 assets.
+
 <hr>
 Remove Featured Badge on profile (1)
 { .annotate }

@@ -14,9 +14,6 @@ A resource for original informational content on the subject of transfeminine ho
 [Trans Harm Reduction](https://transharmreduction.org)<br>
 Get injection supplies, blood test information, and other useful guides.
 
-[DIYHRT](https://diyhrt.market)<br>
-Purchase hormones from trusted pharmacies and homebrewers.
-
 [a defense of diy hrt](https://blog.polly.computer/a_defense_of_diy_hrt)<br>
 
 [Where to being Feminizing](https://buymeacoffee.com/alyssavt/no-explanations-instructions-feminizing)<br>
