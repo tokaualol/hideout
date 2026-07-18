@@ -21,6 +21,9 @@ Open-source software alternative to µTorrent.
 [mitmproxy](https://mitmproxy.org)<br>
 Open source interactive HTTPS proxy.
 
+[HTTP Toolkit](https://httptoolkit.com)<br>
+Open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac.
+
 [Bruno](https://usebruno.com)<br>
 A good API client.
 

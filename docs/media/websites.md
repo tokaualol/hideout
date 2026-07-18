@@ -141,6 +141,10 @@ Download video, audio, photos or gifs from your favorite websites!
 :star: [VERT](https://vert.sh)<br>
 [Ezgif](https://ezgif.com/converters)<br>
 
+## Temporary Email Service(s)
+[SmailPro](https://smailpro.com)<br>
+Gmail & Outlook
+
 ## Resource Hub(s)
 if you can't find what your looking for in the hideout, these are the places i reccomend looking in.
 
