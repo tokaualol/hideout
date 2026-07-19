@@ -28,7 +28,15 @@ Professional design, photo editing, and page layout.
 [Cavalry](https://cavalry.studio)<br>
 Professional, real-time animation software.
 
-## Client Modifications
+## Music Player(s)
+
+[Kopuz](https://kopuz.temidara.rocks)<br>
+Lightweight music player, play from local folders, stream from Jellyfin or Navidrome, connect YouTube Music and SoundCloud.
+
+[foobar2000](https://foobar2000.org)<br>
+Play all mainstream audio formats, many built-in DSP effects, support for ripping Audio CDs as well as transcoding.
+
+## Client Modification(s)
 
 ### Discord
 :star: [Vencord](https://vencord.dev) (1)<br>

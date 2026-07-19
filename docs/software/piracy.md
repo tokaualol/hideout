@@ -17,6 +17,10 @@ An open-source Windows and Office activator featuring HWID, Ohook, TSforge, and 
 <small>aHR0cHM6Ly93MTgubW9ua3J1cy53cw==</small><br>
 Adobe software
 
+MiNERVA Archive<br>
+<small>aHR0cHM6Ly9taW5lcnZhLWFyY2hpdmUub3Jn</small><br>
+A community-driven effort to archive the entirety of [Myrient](https://myrient.erista.me) and distribute it in more effective ways.
+
 MalwareWatch<br>
 <small>aHR0cHM6Ly9kbC5tYWx3YXJld2F0Y2gub3JnL3NvZnR3YXJlL3VzZWZ1bC9tZWRpYS92ZWdhcw==</small><br>
 Sony VEGAS

@@ -86,7 +86,10 @@ A wiki which hosts & documents many unused or cut content from different video g
 Free game assets ranging from UI to 3D models, and other miscellaneous textures.
 
 [TLD List](https://tld-list.com)<br>
-Compare prices of domain tlds across different registrars. 
+Compare prices of domain tlds across different registrars.
+
+[buyfinder](https://buyfinder.moe)<br>
+Search through multiple online hobby shops at once and compare prices for anime figures.
 
 [waifu2x](https://waifu2x.net)<br>
 Anime-Style art image upscaler.
@@ -115,9 +118,10 @@ Directory of filter and host lists for advertisements, trackers, malware, and an
 ## File Storage(s)
 :star: [CatBox](https://catbox.moe)<br>
 [LitterBox](https://litterbox.catbox.moe) (Temporary)<br>
-[Mega](https://mega.nz)<br>
+:star: [Mega](https://mega.nz)<br>
 [GoFile](https://gofile.io)<br>
 [Mediafire](https://mediafire.com)<br>
+[Uguu](https://uguu.se) (Temporary)<br>
 
 ## Static Hosting Sites
 
@@ -133,9 +137,7 @@ Download video, audio, photos or gifs from your favorite websites!
 1. Supported Sites:<br>
     BiliBili, BlueSky, DailyMotion, Facebook, Instagram, Loom, OK, Pinterest, Newgrounds, Reddit, RuTube, Snapchat, SoundCloud, Streamable, TikTok, Tumblr, Twitch Clips, Twitter, Vimeo, VK, Xiaohongshu
 
-    Instances:<br>
-    [cobalt.meowing.de](https://cobalt.meowing.de)<br>
-    [cobalt.canine.tools](https://cobalt.canine.tools)
+    More Instances @ [cobalt.directory](https://cobalt.directory)
 
 ## Media Converter(s)
 :star: [VERT](https://vert.sh)<br>
@@ -143,14 +145,22 @@ Download video, audio, photos or gifs from your favorite websites!
 
 ## Temporary Email Service(s)
 [SmailPro](https://smailpro.com)<br>
-Gmail & Outlook
+Gmail & Outlook accounts
 
 ## Resource Hub(s)
 if you can't find what your looking for in the hideout, these are the places i reccomend looking in.
 
 [FMHY (FreeMediaHeckYeah)](https://fmhy.net)<br>
+The largest collection of free stuff on the internet!
+
 [awesome](https://github.com/sindresorhus/awesome)<br>
+Awesome lists about all kinds of interesting topics.
+
 [CTT (Couleur Tweak Tips)](https://ctt.cx)<br>
+Extensive knowledge on video production.
+
+[buyfags.moe](https://buyfags.moe)<br>
+A wiki to give information on purchasing, storing, displaying and looking after Japanese merchandise. 
 
 ## Image Board(s)
 !!! warning
@@ -162,3 +172,6 @@ A taggable imageboard, with sophisticated features for keeping, organizing and f
 
 [4chan](https://4chan.org)<br>
 Anonymous image-based board where anyone can post comments and images.
+
+[Rule 34](https://rule34.paheal.net)<br>
+If it exists, there is porn of it.

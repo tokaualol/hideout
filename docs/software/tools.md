@@ -27,6 +27,9 @@ Open-source tool for debugging, testing and building with HTTP(S) on Windows, Li
 [Bruno](https://usebruno.com)<br>
 A good API client.
 
+[zoxide](https://github.com/ajeetdsouza/zoxide)<br>
+A smarter "cd" command, it remembers which directories you use most frequently, so you can "jump" to them in just a few keystrokes, works on all major shells.
+
 [ReVanced](https://revanced.app)<br>
 Apply a ton of custom patches to Android applications.
 
