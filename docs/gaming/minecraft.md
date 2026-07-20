@@ -39,7 +39,7 @@ Minecraft bot proxy focused on 2b2t, but has a ton of other amazing featues, cha
 C++ Minecraft proxy that logs all packets.
 
 [MapartCraft](https://rebane2001.com/mapartcraft)<br>
-A Minecraft mapart schematic and map.dat generator.
+A Minecraft image to mapart schematic and map.dat generator.
 
 [Modrinth](https://modrinth.com)<br>
 The place for Minecraft mods, resource packs, data packs, shaders, modpacks, plugins, and servers!

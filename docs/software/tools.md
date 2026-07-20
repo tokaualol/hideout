@@ -46,7 +46,7 @@ A suite of tools that contains extensive individual troubleshooting tools and he
 Minimalistic image reference and mood board.
 
 [nomacs](https://nomacs.org)<br>
-Open source image viewer & editor.   
+Open source image viewer & editor, view all common image formats including RAW and psd images.
 
 [Windhawk](https://windhawk.net)<br>
 Customize Windows programs with scripts by the community.

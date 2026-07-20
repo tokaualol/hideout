@@ -31,4 +31,4 @@ done
 <hr>
 
 [WinMasterBlocker](https://gist.github.com/ph33nx/0ed14724213c4cc467c85826c9dca908)<br>
-Block All Adobe connections via Firewall.
+Block Adobe, Autodesk, Corel, Maxon, and more connections via Firewall.
