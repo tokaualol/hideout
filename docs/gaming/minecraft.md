@@ -57,6 +57,9 @@ A modern Minecraft launcher that balances ease-of-use with powerful instance man
 [Axiom](https://modrinth.com/mod/axiom)<br>
 All-in-one tool for editing Minecraft worlds.
 
+[Figura](https://figuramc.org)<br>
+Customize your player model with lua scripting, modifying behavior, with almost no limits!
+
 [Flashback](https://modrinth.com/mod/flashback)<br>
 Record your Minecraft gameplay, play it back and create stunning cinematic shots.
 

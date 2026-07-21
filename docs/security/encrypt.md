@@ -9,5 +9,5 @@ Encryption is the process of transforming information in a way that, ideally, on
 [VeraCrypt](https://veracrypt.io)<br>
 Open source disk encryption software for Windows, Mac OSX and Linux.
 
-[Yubikey](https://yubico.com)<br>
+:paid: [Yubikey](https://yubico.com)<br>
 Passwordless hardware Multi-Factor authentication devices.

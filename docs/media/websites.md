@@ -88,6 +88,9 @@ Free game assets ranging from UI to 3D models, and other miscellaneous textures.
 [TLD List](https://tld-list.com)<br>
 Compare prices of domain tlds across different registrars.
 
+[YouTube Video Finder](https://findyoutubevideo.thetechrobo.ca)<br>
+Attempts to find an unavailable video through multiple archival sources. 
+
 [buyfinder](https://buyfinder.moe)<br>
 Search through multiple online hobby shops at once and compare prices for anime figures.
 

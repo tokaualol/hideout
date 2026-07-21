@@ -68,6 +68,9 @@ Legit 3DS games and DLC for download.
 
 [Mesen](https://mesen.ca)
 
+[MetalNES](https://github.com/iaddis/metalnes)<br>
+Transistor level NES-001 simulation.
+
 ## XBOX
 
 ### Xbox (Original)

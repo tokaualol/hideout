@@ -25,6 +25,9 @@ Open source alternative Twitter front-end focused on privacy and performance.
 [Affinity](https://affinity.studio)<br>
 Professional design, photo editing, and page layout.
 
+[Photopea](https://photopea.com)<br>
+Free online tool for editing raster and vector graphics with support for PSD, AI, and Sketch files.
+
 [Cavalry](https://cavalry.studio)<br>
 Professional, real-time animation software.
 

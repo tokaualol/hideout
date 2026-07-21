@@ -28,3 +28,6 @@ Multi-instance manager for qBittorrent with support for automation, backups and 
 
 [tekno's YouTube Archiver](https://github.com/f0e/youtube-archiver)<br>
 Archive YouTube content and rehost it inside a clean modern interface.
+
+[copyparty](https://github.com/9001/copyparty)<br>
+Portable file server with accelerated resumable uploads.
