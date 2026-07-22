@@ -7,6 +7,9 @@ Database covering the entire Steam catalog. Player charts, price history across 
 [Steam Status](https://steamstat.us)<br>
 Steam server status.
 
+[Valve Developer Community](https://developer.valvesoftware.com)<br>
+The most comprehensive source of information on the Source engine and games that use it.
+
 [SteamID](https://steamid.uk)<br>
 Steam profile lookup with history.
 

@@ -1,5 +1,5 @@
 ## Minecraft
-Minecraft related tools or other software.
+Minecraft related tools or other resources.
 <hr>
 
 [Minecraft Wiki](https://minecraft.wiki)<br>
@@ -56,6 +56,9 @@ A modern Minecraft launcher that balances ease-of-use with powerful instance man
 
 [Axiom](https://modrinth.com/mod/axiom)<br>
 All-in-one tool for editing Minecraft worlds.
+
+[Blockbuster Studio](https://modrinth.com/mod/bbs-mod)<br>
+Create animations, roleplays, and machinimas within Minecraft!
 
 [Figura](https://figuramc.org)<br>
 Customize your player model with lua scripting, modifying behavior, with almost no limits!

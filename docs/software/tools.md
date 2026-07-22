@@ -3,7 +3,7 @@ icon: toolbox
 ---
 
 ## Tools
-a collection of useful tools and software.
+Useful tools & software.
 <hr>
 
 :star: [Everything](https://voidtools.com)<br>

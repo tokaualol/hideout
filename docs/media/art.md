@@ -3,6 +3,7 @@ icon: paint
 ---
 
 ## Art
+Art releated resources.
 <hr>
 
 !!! warning
@@ -12,8 +13,10 @@ icon: paint
 [Settei Dreams](https://setteidreams.net)<br>
 Animation production materials, ranging from artbooks, storyboards, and production sketches.
 
+[LIVE DRAWING TRIGGER](https://youtube.com/playlist?list=PLylWpI-o9raU7kIgWf7a_FpL7hw4RDedJ)<br>
+Twitch VODs of artists and animators drawing involved in Studio TRIGGER.
+
 ## My Little Pony
-drawing tutorials, guides, and resources.
 
 [https://ponepaste.org/8268](https://ponepaste.org/8268)<br>
 /bale/ guides and tutorials
@@ -27,3 +30,4 @@ drawing tutorials, guides, and resources.
 A searchable list of character palettes from the series.
 
 [https://ponepaste.org/9401](https://ponepaste.org/9401)<br>
+/create/ Resource Bin

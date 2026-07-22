@@ -3,11 +3,17 @@ icon: terminal
 ---
 
 ## Scripts
-a collection of useful scripts for various tasks.
+Useful scripts for various tasks.
 <hr>
 
 [Chris Titus Tech's Windows Utility](https://github.com/ChrisTitusTech/winutil)<br>
 Install Programs, Tweaks, Fixes, and Updates.
+
+[WinMasterBlocker](https://gist.github.com/ph33nx/0ed14724213c4cc467c85826c9dca908)<br>
+Block Adobe, Autodesk, Corel, Maxon, and more connections via Firewall.
+
+[blocky web](https://github.com/xyzeva/blocky-web)<br>
+A userscript to remove all rounded corners from most websites.
 
 <hr>
 Clone entire GitHub Profile / Organization
@@ -29,6 +35,3 @@ gh repo list myorgname --limit 1000 | while read -r repo _; do
 done
 ```
 <hr>
-
-[WinMasterBlocker](https://gist.github.com/ph33nx/0ed14724213c4cc467c85826c9dca908)<br>
-Block Adobe, Autodesk, Corel, Maxon, and more connections via Firewall.

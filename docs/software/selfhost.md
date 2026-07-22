@@ -3,6 +3,7 @@ icon: lan
 ---
 
 ## Self Host
+Services that one can host on their own.
 <hr>
 
 :star: [Jellyfin](https://jellyfin.org)<br>

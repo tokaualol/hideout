@@ -3,6 +3,7 @@ icon: globe
 ---
 
 ## Websites
+Useful websites that include tools or information that doesn't require you to install any software.
 <hr>
 
 :star: [Internet Archive](https://archive.org) (1)<br>
@@ -100,7 +101,7 @@ Anime-Style art image upscaler.
 [color-hex](https://color-hex.com)<br>
 Information about colors including color models (RGB,HSL,HSV and CMYK), Triadic colors, monochromatic colors and analogous colors calculated in color page.
 
-[Does X game support Linux?](https://areweanticheatyet.com)<br>
+[Are We Anti-Cheat Yet?](https://areweanticheatyet.com)<br>
 A comprehensive and crowd-sourced list of games using anti-cheats and their compatibility with GNU/Linux or Wine/Proton.
 
 [Font Awesome](https://fontawesome.com/search)<br>
