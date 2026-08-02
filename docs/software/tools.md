@@ -73,6 +73,9 @@ Run Windows applications on UNIX based systems.
 [LiveSplit](https://livesplit.org/)<br>
 A sleek, highly customizable timer for speedrunners.
 
+[RetroSpy](https://github.com/retrospy/RetroSpy)<br>
+Controller input viewer for Nintendo consoles as well as many other retro consoles and computers.
+
 [girlglock input overlay](https://overlay.girlglock.com)<br>
 the best keyboard input overlay for OBS and other broadcast software.
 

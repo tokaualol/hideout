@@ -179,3 +179,6 @@ Anonymous image-based board where anyone can post comments and images.
 
 [Rule 34](https://rule34.paheal.net)<br>
 If it exists, there is porn of it.
+
+[konachan](https://konachan.net)<br>
+Wallpaper-based imageboard.
