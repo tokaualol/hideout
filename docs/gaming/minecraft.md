@@ -38,6 +38,9 @@ Minecraft bot proxy focused on 2b2t, but has a ton of other amazing featues, cha
 [SniffCraft](https://github.com/adepierre/SniffCraft)<br>
 C++ Minecraft proxy that logs all packets.
 
+[Minecraft Names](https://mcp.thiakil.com)<br>
+A list of all Minecraft Mappings.
+
 [MapartCraft](https://rebane2001.com/mapartcraft)<br>
 A Minecraft image to mapart schematic and map.dat generator.
 
