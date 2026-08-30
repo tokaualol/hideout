@@ -30,6 +30,9 @@ A good API client.
 [zoxide](https://github.com/ajeetdsouza/zoxide)<br>
 A smarter "cd" command, it remembers which directories you use most frequently, so you can "jump" to them in just a few keystrokes, works on all major shells.
 
+[Morphe](https://morphe.software)<br>
+YouTube Android patches, SponsorBlock, enhanced player controls, and advanced privacy improvements.
+
 [ReVanced](https://revanced.app)<br>
 Apply a ton of custom patches to Android applications.
 

@@ -17,10 +17,6 @@ A lightweight approach to removing Google web service dependency.
 [matrix](https://matrix.org)<br>
 An open network for secure, decentralised communication.
 
-## Twitter
-[nitter](https://nitter.net)<br>
-Open source alternative Twitter front-end focused on privacy and performance.
-
 ## Adobe
 [Affinity](https://affinity.studio)<br>
 Professional design, photo editing, and page layout.
