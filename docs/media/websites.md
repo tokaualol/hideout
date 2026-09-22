@@ -37,7 +37,10 @@ The world’s largest open-source open-data library.
     [annas-archive.gd](https://annas-archive.gd)
 
 :star: [Z-Library](https://z-lib.sk)<br>
-The world’s largest e-book library. 
+The world’s largest e-book library.
+
+:star: [iFixit](https://ifixit.com)<br>
+Repair and disassembly guides for various products.
 
 [Open Graph Protocol](https://ogp.me)<br>
 List of common website metadata.

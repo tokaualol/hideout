@@ -20,3 +20,6 @@ A collection of user made websites in a tile format.
 
 [Web Design Museum](https://webdesignmuseum.org)<br>
 Thousands of screenshots and videos of websites, apps, software, and Flash games from the 1990s to the late 2000s.
+
+[Flashpoint Archive](https://flashpointarchive.org)<br>
+An archive of Adobe Flash web-based games, animations, and interactive experiences.
