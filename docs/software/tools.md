@@ -24,11 +24,17 @@ Open source interactive HTTPS proxy.
 [HTTP Toolkit](https://httptoolkit.com)<br>
 Open-source tool for debugging, testing and building with HTTP(S) on Windows, Linux & Mac.
 
+[slicer](https://slicer.run)<br>
+A modern Java reverse engineering tool for the web.
+
 [Bruno](https://usebruno.com)<br>
 A good API client.
 
 [zoxide](https://github.com/ajeetdsouza/zoxide)<br>
 A smarter "cd" command, it remembers which directories you use most frequently, so you can "jump" to them in just a few keystrokes, works on all major shells.
+
+[Ventoy](https://ventoy.net)<br>
+Drag and drop ISO/WIM/IMG/VHD(x)/EFI files on a USB drive and boot into them directly.
 
 [Morphe](https://morphe.software)<br>
 YouTube Android patches, SponsorBlock, enhanced player controls, and advanced privacy improvements.
@@ -88,3 +94,6 @@ Krita is a professional open source painting program. It is made by artists that
 
 :paid: [Clip Studio Paint](https://clipstudio.net)<br>
 The ultimate drawing & painting app.
+
+:paid: [aseprite](https://aseprite.org)<br>
+An open source pixel art tool & sprite editor.
