@@ -97,3 +97,6 @@ The ultimate drawing & painting app.
 
 :paid: [aseprite](https://aseprite.org)<br>
 An open source pixel art tool & sprite editor.
+
+[Kenney Shape](https://kenney.itch.io/kenney-shape)<br>
+Create 2D pixel art using a variety of shapes, adjust the depth of individual pixels, and transform your designs into extruded 3D models in just a few clicks.

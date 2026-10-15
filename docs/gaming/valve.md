@@ -24,6 +24,9 @@ A CLI/GUI tool to create, read, and write several pack file formats.
 [Source 2 Viewer](https://s2v.app)<br>
 View, export, and decompile Source 2 assets.
 
+[Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager)
+A lightweight, portable application used to manage achievements and statistics in the popular PC gaming platform Steam.
+
 <hr>
 Remove Featured Badge on profile (1)
 { .annotate }

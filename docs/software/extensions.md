@@ -15,6 +15,9 @@ Allows you to change the volume of tabs on browsers.
 :star: [ClearURLs](https://clearurls.xyz)<br>
 Removes tracking from URLs automatically, blocks hyperlink auditing, and supports redirection to the destination, without tracking services as a middleman.
 
+[Violentmonkey](https://violentmonkey.github.io)
+An open source userscript manager.
+
 [BetterTTV](https://betterttv.com)<br>
 Adds extra emotes and makes the overall chat experience for Twitch much better.
 
