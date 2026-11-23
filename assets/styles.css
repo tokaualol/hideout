@@ -1,0 +1,71 @@
+@font-face {
+	font-family: Renogare;
+	src: url("/assets/fonts/Renogare.otf");
+}
+
+@font-face {
+	font-family: Minecraft;
+	src: url("/assets/fonts/Mojangles.woff2");
+}
+
+:root  > * {
+  --md-primary-fg-color: #A673FF;
+  --md-primary-fg-color--dark: #845CCC;
+  --md-accent-fg-color: #845CCC;
+  --md-text-font: "Renogare"; 
+  --md-code-font: "Minecraft";
+}
+
+.md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card {
+	border: none;
+	padding: 0;
+}
+
+.md-typeset h1 {
+	display: none;
+}
+
+.md-typeset h2 {
+	font-family: Minecraft;
+	margin: 0;
+}
+
+.md-header__title {
+	font-family: Minecraft;
+	font-size: 2.5em;
+}
+
+/* image stuff */
+.md-typeset .grid.cards>ol>li>:last-child, .md-typeset .grid.cards>ul>li>:last-child, .md-typeset .grid>.card>:last-child {
+	display: flex;
+}
+
+/* hover image shadow */
+.md-typeset .grid.cards>ol>li:focus-within, .md-typeset .grid.cards>ol>li:hover, .md-typeset .grid.cards>ul>li:focus-within, .md-typeset .grid.cards>ul>li:hover, .md-typeset .grid>.card:focus-within, .md-typeset .grid>.card:hover {
+	box-shadow: none;
+}
+/* --- */
+
+/* annotations fix */
+.md-annotation__index {
+	margin: 0;
+}
+
+.md-annotation__index:after, .md-annotation__index:before {
+	height: 1.8ch;
+}
+/* --- */
+
+.md-footer-meta {
+	display: none;
+}
+
+.md-nav__item--section>.md-nav__link[for] {
+	font-family: Minecraft;
+	font-size: 1.3em;
+}
+
+.md-nav--primary .md-nav__title {
+	font-family: Minecraft;
+	font-size: 1.5em;
+}
