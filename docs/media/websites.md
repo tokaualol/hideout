@@ -86,7 +86,7 @@ List of a ton of IEMs, with reviews and prices and other useful stats.
 [The Cutting Room Floor](https://tcrf.net)<br>
 A wiki which hosts & documents many unused or cut content from different video games.
 
-[CSS Pattern](https://css-pattern.com)
+[CSS Pattern](https://css-pattern.com)<br>
 The biggest collection of 157 background patterns.
 
 [Kenney](https://kenney.nl/assets)<br>

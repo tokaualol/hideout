@@ -27,6 +27,9 @@ View, export, and decompile Source 2 assets.
 [Steam Achievement Manager](https://github.com/gibbed/SteamAchievementManager)
 A lightweight, portable application used to manage achievements and statistics in the popular PC gaming platform Steam.
 
+[Decky Loader](https://decky.xyz)<br>
+An open source project with the goal of adding plugin-loading capabilities to the Steam Deck.
+
 <hr>
 Remove Featured Badge on profile (1)
 { .annotate }

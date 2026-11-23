@@ -3,8 +3,11 @@ icon: billibilli
 ---
 
 ## Anime & Manga
-List of sites to stream, or download Anime / Manga.
+List of sites to stream, or download Anime / Manga, or anything that can be useful.
 <hr>
+
+[AnimeThemes](https://animethemes.moe)<br>
+A simple and consistent repository of high quality anime opening and ending themes, useful for finding creditless videos.
 
 ## Streaming
 [Miruro](https://miruro.tv) (1)<br>
